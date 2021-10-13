@@ -68,10 +68,9 @@ def getLanguages(repos):
     # sort by language
     languages = dict()
     for repo in repos:
-        
         returnText = ("* [" + ' '.join(name.title() for name in re.split('; |, |\*|_|-', repo['name'])) + \
         f"]({repo['html_url']}) - {repo['description']}" + (f" [Website @ [{repo['homepage'].replace('https://','') if repo['homepage'] else ''}]({repo['homepage']})]" if repo['homepage'] else '') + '\n')
-        if repo['language'] in languages:
+        if repo['language'] in languages or (repo['language'] == None and "Misc" in languages):
             languages['Misc' if repo['language'] == None else repo['language']] += returnText
         else:
             languages['Misc' if repo['language'] == None else repo['language']] = returnText

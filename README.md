@@ -338,8 +338,35 @@ This is a index to all my **GitHub repos**. It acts as a quick-link to all my pr
 * [Makefile Template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
 
 
-### (1) Misc
+### (28) Misc
 
+* [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
+* [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
+* [Ama](https://github.com/Zeyu-Li/AMA) - AMA 😃 [Website @ [github.com/Zeyu-Li/AMA/discussions](https://github.com/Zeyu-Li/AMA/discussions)]
+* [Ama Template](https://github.com/Zeyu-Li/AMA-template) - An AMA template 
+* [Cmput 229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
+* [Free Blender Models](https://github.com/Zeyu-Li/free-blender-models) - Free Blender models! :hammer:
+* [Github Readme Stats](https://github.com/Zeyu-Li/github-readme-stats) - :zap: Dynamically generated stats for your GitHub readmes [Website @ [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
+* [Github Index](https://github.com/Zeyu-Li/GitHub_index) - An index for all my GitHub repos 📋 [Website @ [github.com/Zeyu-Li/GitHub_index#github-index](https://github.com/Zeyu-Li/GitHub_index#github-index)]
+* [Gitignore](https://github.com/Zeyu-Li/gitignore) - A collection of useful .gitignore templates ❌
+* [Honor Cal Notes](https://github.com/Zeyu-Li/honor_cal_notes) - Notes for honors (aka abstract) calculus! 🧮 GitHub does not support markdown with LaTeX so use the README.pdf [Website @ [github.com/Zeyu-Li/honor_cal_notes/releases/tag/1.0](https://github.com/Zeyu-Li/honor_cal_notes/releases/tag/1.0)]
+* [Javascript Notes](https://github.com/Zeyu-Li/javascript_notes) - Notes on JavaScript
+* [Lab 8 Template Wednesday](https://github.com/Zeyu-Li/Lab-8-Template-Wednesday) - A Lab project for CMPUT 301 utilizing Travis CI
+* [Lit Discord Server](https://github.com/Zeyu-Li/lit-discord-server) - A guide to making a 🔥 lit Discord Server
+* [Pandoc Action Example](https://github.com/Zeyu-Li/pandoc-action-example) - using the pandoc document converter on GitHub Actions
+* [Personal Snippets](https://github.com/Zeyu-Li/personal-snippets) - My personal vs code snippets ✂️
+* [Readme Template](https://github.com/Zeyu-Li/README_template) - A template for README files :pencil: 
+* [Reboot](https://github.com/Zeyu-Li/Reboot) - REBOOT - a VR/PC prototype for use in pain research and rehabilitation to help address financial barriers in the delivery of VR neurofeedback intervention [Website @ [rebootgame.vercel.app/](https://rebootgame.vercel.app/)]
+* [Saveimagetogallery](https://github.com/Zeyu-Li/SaveImagetoGallery) - This is the code to save the image from Imageview to galley in Android Studio
+* [Template](https://github.com/Zeyu-Li/template) - A standard template containing a README and a license :pencil: 
+* [Tensorflow Installation Guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2 :robot: 
+* [Tryhackme](https://github.com/Zeyu-Li/TryHackMe) - Hacker Man 👨‍💻 [Website @ [tryhackme.com/](https://tryhackme.com/)]
+* [Unity User Guide](https://github.com/Zeyu-Li/unity-user-guide) - A Unity User Guide that supplements the Unity Documentation, along with some tips and tricks! Is a collection of my 2D and 3D notes on Unity :video_game:
+* [Unreal Template Old](https://github.com/Zeyu-Li/Unreal-Template-Old) - A Old Unreal Template with a Git bug :beetle:. New one here: [Website @ [github.com/Zeyu-Li/Unreal-Tutorial](https://github.com/Zeyu-Li/Unreal-Tutorial)]
+* [Unreal Tutorial](https://github.com/Zeyu-Li/Unreal-Tutorial) - An Unreal Engine tutorial! Acts as a 1st person Unreal template as well :video_game: [Website @ [github.com/Zeyu-Li/Unreal-Template-Old](https://github.com/Zeyu-Li/Unreal-Template-Old)]
+* [Vim Help](https://github.com/Zeyu-Li/Vim_help) - This is to help getting up and running with Vim
+* [Vscode Prints](https://github.com/Zeyu-Li/vscode-prints) - vs-code extension that has print snippets in multiple languages so you don't have to type them! 🖨️
+* [Vs Project](https://github.com/Zeyu-Li/vs_project) - A starting point for C++ in Visual Studio 📝
 * [Zeyu Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀! 
 
 
