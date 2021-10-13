@@ -5,8 +5,10 @@ import re
 
 GITHUB_USERNAME = "Zeyu-Li"
 FILES = True
+REPOS_FILE = "data.json"
+GISTS_FILE = "gists.json"
 
-def getReposAPI(file = "data.json"):
+def getReposAPI(file = f"{REPOS_FILE}"):
     r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}')
     try:
         count = r.json()['public_repos']
@@ -25,7 +27,7 @@ def getReposAPI(file = "data.json"):
 
     return repos
 
-def getGistAPI(file = "gist.json"):
+def getGistAPI(file = f"{GISTS_FILE}"):
     r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/gist')
     gists = r.json()
     
@@ -36,11 +38,11 @@ def getGistAPI(file = "gist.json"):
     return gists
 
 
-def getRepoFile(file = "data.json"):
+def getRepoFile(file = f"{REPOS_FILE}"):
     with open(file, "r", encoding="utf-8") as fp:
         return json.loads(fp.read())
 
-def getGistFile(file = "gist.json"):
+def getGistFile(file = f"{GISTS_FILE}"):
     with open(file, "r", encoding="utf-8") as fp:
         return json.loads(fp.read())
 
@@ -62,6 +64,22 @@ def getGistsText(gists):
 
     return returnText
 
+def getLanguages(repos):
+    # sort by language
+    languages = dict()
+    for repo in repos:
+        
+        returnText = ("* [" + ' '.join(name.title() for name in re.split('; |, |\*|_|-', repo['name'])) + \
+        f"]({repo['html_url']}) - {repo['description']}" + (f" [Website @ [{repo['homepage'].replace('https://','') if repo['homepage'] else ''}]({repo['homepage']})]" if repo['homepage'] else '') + '\n')
+        if repo['language'] in languages:
+            languages['Misc' if repo['language'] == None else repo['language']] += returnText
+        else:
+            languages['Misc' if repo['language'] == None else repo['language']] = returnText
+
+    new_line = '\n'
+    return ''.join(f"### ({languages[language].count(new_line)}) {language}{new_line + new_line + languages[language] + new_line + new_line}" for language in sorted(languages))
+
+
 def main():
     repos = getRepoFile() if FILES else getReposAPI()
     gists = getGistFile() if FILES else getGistsAPI()
@@ -70,19 +88,20 @@ def main():
     template = f"""
 # GitHub Index
 
+<a name="top"></a>
+
 ## About
 
 This is a index to all my **GitHub repos**. It acts as a quick-link to all my projects as well as a description to each repo
 
-<a name="top"></a>
-
-<a href="#all">Jump to **All** repos</a> | <a href="#gist">Jump to **Gists**</a> |
+<a href="#all">Jump to **All** repos</a> | <a href="#gist">Jump to **Gists**</a> | <a href="#languages">Jump to **By Languages**</a>
 
 <a name="all_r"></a>
 
 ## ({len(repos)}) All GitHub Repos
 
 {getReposText(repos)}
+
 
 <a name="gist"></a>
 
@@ -91,7 +110,11 @@ This is a index to all my **GitHub repos**. It acts as a quick-link to all my pr
 {getGistsText(gists)}
 
 
+<a name="languages"></a>
 
+## By Languages
+
+{getLanguages(repos)}
 **<a href="#top">🔝 Back to Top</a>**
 """
 
