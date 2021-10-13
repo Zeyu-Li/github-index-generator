@@ -4,8 +4,9 @@ import json
 import re
 
 GITHUB_USERNAME = "Zeyu-Li"
+FILES = True
 
-def getRepoAPI(file = "data.json"):
+def getReposAPI(file = "data.json"):
     r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}')
     try:
         count = r.json()['public_repos']
@@ -62,17 +63,20 @@ def getGistsText(gists):
     return returnText
 
 def main():
-    repos = getRepoFile()
-    gists = getGistFile()
+    repos = getRepoFile() if FILES else getReposAPI()
+    gists = getGistFile() if FILES else getGistsAPI()
 
+# TODO: language section + top link
     template = f"""
 # GitHub Index
 
+## About
+
+This is a index to all my **GitHub repos**. It acts as a quick-link to all my projects as well as a description to each repo
+
 <a name="top"></a>
 
-<a href="#all">Jump to **All** repos</a>
-
-<a href="#gist">Jump to **Gists**</a>
+<a href="#all">Jump to **All** repos</a> | <a href="#gist">Jump to **Gists**</a> |
 
 <a name="all_r"></a>
 
@@ -86,9 +90,7 @@ def main():
 
 {getGistsText(gists)}
 
-## About
 
-This is a index to all my **GitHub repos**. It acts as a quick-link to all my projects as well as a description to each repo
 
 **<a href="#top">🔝 Back to Top</a>**
 """

@@ -1,11 +1,13 @@
 
 # GitHub Index
 
+## About
+
+This is a index to all my **GitHub repos**. It acts as a quick-link to all my projects as well as a description to each repo
+
 <a name="top"></a>
 
-<a href="#all">Jump to **All** repos</a>
-
-<a href="#gist">Jump to **Gists**</a>
+<a href="#all">Jump to **All** repos</a> | <a href="#gist">Jump to **Gists**</a>
 
 <a name="all_r"></a>
 
@@ -187,8 +189,6 @@
 * [skull.tex](https://gist.github.com/9f8e9bc39b7dfba4479ad70a8b6bd5f4) - A TiKZ drawing of a skull, converted from svg
 
 
-## About
 
-This is a index to all my **GitHub repos**. It acts as a quick-link to all my projects as well as a description to each repo
 
 **<a href="#top">🔝 Back to Top</a>**
