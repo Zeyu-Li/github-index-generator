@@ -5,13 +5,13 @@
 
 ## About
 
-This is a index to all my **GitHub repos**. It acts as a quick-link to all my projects as well as a description to each repo
+This is a index to all my **GitHub Repositories**. It acts as a quick-link to all my projects as well as a description to each repo
 
-<a href="#all">Jump to **All** repos</a> | <a href="#gist">Jump to **Gists**</a> | <a href="#languages">Jump to **By Languages**</a>
+<a href="#all">Jump to **All Repositories**</a> | <a href="#gist">Jump to **Gists**</a> | <a href="#languages">Jump to **By Languages**</a>
 
 <a name="all_r"></a>
 
-## (148) All GitHub Repos
+## (149) All GitHub Repos
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
@@ -63,6 +63,7 @@ This is a index to all my **GitHub repos**. It acts as a quick-link to all my pr
 * [Functionally Set](https://github.com/Zeyu-Li/functionally-set) - A short description for functional languages + some code
 * [Geometry Notes](https://github.com/Zeyu-Li/geometry-notes) - Notes from MATH 241
 * [Ggj Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020 :video_game: 
+* [Github Index Generator](https://github.com/Zeyu-Li/github-index-generator) - A GitHub Indexer Script 🤖
 * [Github Initer](https://github.com/Zeyu-Li/github-initer) - Initalizes a GitHub repo
 * [Github Readme Stats](https://github.com/Zeyu-Li/github-readme-stats) - :zap: Dynamically generated stats for your GitHub readmes [Website @ [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
 * [Github Index](https://github.com/Zeyu-Li/GitHub_index) - An index for all my GitHub repos 📋 [Website @ [github.com/Zeyu-Li/GitHub_index#github-index](https://github.com/Zeyu-Li/GitHub_index#github-index)]
@@ -381,7 +382,7 @@ This is a index to all my **GitHub repos**. It acts as a quick-link to all my pr
 * [Git Initer Powershell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run 🤖. Based on https://github.com/Zeyu-Li/Git_initer
 
 
-### (27) Python
+### (28) Python
 
 * [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈
 * [Cipher](https://github.com/Zeyu-Li/cipher) - A Feistel Cipher implemented in Python :closed_lock_with_key:
@@ -390,6 +391,7 @@ This is a index to all my **GitHub repos**. It acts as a quick-link to all my pr
 * [Django Tutorial](https://github.com/Zeyu-Li/django-tutorial) - A tutorial for Django projects 🏫
 * [Django Project Test](https://github.com/Zeyu-Li/django_project_test) - First Django project (test). For current Django project:  [Website @ [github.com/Zeyu-Li/django_ecommerce_app](https://github.com/Zeyu-Li/django_ecommerce_app)]
 * [Fraction Cal Py](https://github.com/Zeyu-Li/fraction_cal_py) - A fractions calculator written in Python 🖩
+* [Github Index Generator](https://github.com/Zeyu-Li/github-index-generator) - A GitHub Indexer Script 🤖
 * [Google Sheets Script Public](https://github.com/Zeyu-Li/google_sheets_script_public) - A script using Google API to copy from template and replace things in each sheet
 * [Grapher Public](https://github.com/Zeyu-Li/grapher_public) - This project extracts data from a set of Google Sheets worksheets and graphs the result using Google Drive API and gspread and matplotlib 📈
 * [Groundhog Text Game](https://github.com/Zeyu-Li/groundhog_text_game) - A text-based python game 🎮

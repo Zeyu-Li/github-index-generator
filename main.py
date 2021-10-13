@@ -21,13 +21,16 @@ def getReposAPI(file = f"{REPOS_FILE}"):
         r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/repos?per_page=100&page={i+1}')
         repos += r.json()
     
+    # clean up
+    repos = filter(lambda x: not (x == "message" or x == "documentation_url"), repos)
+
     # dumps in json just in case
     with open(file, "w") as fp:
         json.dump(repos, fp)
 
     return repos
 
-def getGistAPI(file = f"{GISTS_FILE}"):
+def getGistsAPI(file = f"{GISTS_FILE}"):
     r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/gist')
     gists = r.json()
     
@@ -40,7 +43,7 @@ def getGistAPI(file = f"{GISTS_FILE}"):
 
 def getRepoFile(file = f"{REPOS_FILE}"):
     with open(file, "r", encoding="utf-8") as fp:
-        return json.loads(fp.read())
+        return list(filter(lambda x: not (x == "message" or x == "documentation_url"), json.loads(fp.read())))
 
 def getGistFile(file = f"{GISTS_FILE}"):
     with open(file, "r", encoding="utf-8") as fp:
@@ -83,7 +86,6 @@ def main():
     repos = getRepoFile() if FILES else getReposAPI()
     gists = getGistFile() if FILES else getGistsAPI()
 
-# TODO: language section + top link
     template = f"""
 # GitHub Index
 
@@ -91,9 +93,9 @@ def main():
 
 ## About
 
-This is a index to all my **GitHub repos**. It acts as a quick-link to all my projects as well as a description to each repo
+This is a index to all my **GitHub Repositories**. It acts as a quick-link to all my projects as well as a description to each repo
 
-<a href="#all">Jump to **All** repos</a> | <a href="#gist">Jump to **Gists**</a> | <a href="#languages">Jump to **By Languages**</a>
+<a href="#all">Jump to **All Repositories**</a> | <a href="#gist">Jump to **Gists**</a> | <a href="#languages">Jump to **By Languages**</a>
 
 <a name="all_r"></a>
 
