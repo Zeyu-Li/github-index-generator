@@ -31,7 +31,7 @@ def getReposAPI(file = f"{REPOS_FILE}"):
     return repos
 
 def getGistsAPI(file = f"{GISTS_FILE}"):
-    r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/gist')
+    r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/gists')
     gists = r.json()
 
     return gists
