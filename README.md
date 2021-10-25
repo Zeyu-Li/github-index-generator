@@ -11,7 +11,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 <a name="all_r"></a>
 
-## (149) All GitHub Repos
+## (152) All GitHub Repos
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
@@ -21,8 +21,10 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Androidtemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio :iphone: :pencil: 
 * [Angular Template](https://github.com/Zeyu-Li/angular-template) - A template for Angular :pencil: 
 * [Awesome Github Profile Readme](https://github.com/Zeyu-Li/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝 [Website @ [awesomegithubprofile.tech/](https://awesomegithubprofile.tech/)]
+* [Black Hole](https://github.com/Zeyu-Li/black-hole) - Donuts have Black Holes [Website @ [zeyu-li.github.io/black-hole/](https://zeyu-li.github.io/black-hole/)]
 * [Blog](https://github.com/Zeyu-Li/blog) - My personal blog 📰 [Website @ [blog.andrewli.site](https://blog.andrewli.site)]
-* [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈
+* [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
+* [Bottom Penguin Coin Website](https://github.com/Zeyu-Li/bottom-penguin-coin-website) - The website for Bottom Penguin Coin [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [C Template](https://github.com/Zeyu-Li/c-template) - A template for C :pencil: 
 * [Capturethebread](https://github.com/Zeyu-Li/CaptureTheBread) - For CTF - an 80 themed website🔆 [Website @ [zeyu-li.github.io/CaptureTheBread/](https://zeyu-li.github.io/CaptureTheBread/)]
 * [Chatter](https://github.com/Zeyu-Li/chatter) - A realtime React-Firebase/Firestore online chat room app 📢 [Website @ [chatter-zeyu-li.vercel.app/](https://chatter-zeyu-li.vercel.app/)]
@@ -86,8 +88,8 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Kitchen Dash Website](https://github.com/Zeyu-Li/Kitchen-Dash-Website) - Kitchen Dash Landing Page 🚀 [Website @ [zeyu-li.github.io/Kitchen-Dash-Website/](https://zeyu-li.github.io/Kitchen-Dash-Website/)]
 * [Lab 8 Template Wednesday](https://github.com/Zeyu-Li/Lab-8-Template-Wednesday) - A Lab project for CMPUT 301 utilizing Travis CI
 * [Lab Basicblocks](https://github.com/Zeyu-Li/Lab_BasicBlocks) - CMPUT 229 Final Project - Basic Blocks
+* [Latex Katex Converter](https://github.com/Zeyu-Li/latex-katex-converter) - LaTeX to KaTeX convertor! Sequel to Latex Moodle Converter but with more stuff [Website @ [latex-katex-converter.vercel.app/](https://latex-katex-converter.vercel.app/)]
 * [Latex Moodle Converter](https://github.com/Zeyu-Li/latex-moodle-converter) - A LaTeX to Moodle Converter [Website @ [zeyu-li.github.io/latex-moodle-converter/](https://zeyu-li.github.io/latex-moodle-converter/)]
-* [Latex Moodle Converter Plus](https://github.com/Zeyu-Li/latex-moodle-converter-plus) - Sequal to Latex Moodle Converter but with more stuff [Website @ [latex-moodle-converter.vercel.app/](https://latex-moodle-converter.vercel.app/)]
 * [Lazy Tensorflow](https://github.com/Zeyu-Li/lazy-tensorflow) - When you don't want to install Tensorflow so you just do it on Google Colab [Website @ [colab.research.google.com/github/Zeyu-Li/lazy-tensorflow/blob/master/tensorflow_template.ipynb](https://colab.research.google.com/github/Zeyu-Li/lazy-tensorflow/blob/master/tensorflow_template.ipynb)]
 * [Learn Coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive coding exercises :computer:! Made in Jupyter Notebooks so you can work online in Google Collab [Website @ [colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%201%20-%20Data-checkpoint.ipynb](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%201%20-%20Data-checkpoint.ipynb)]
 * [Leetcode](https://github.com/Zeyu-Li/leetcode) - some leetcode solutions 🤓 [Website @ [leetcode.com/](https://leetcode.com/)]
@@ -103,6 +105,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Midi Interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil :musical_keyboard:
 * [Ml Now](https://github.com/Zeyu-Li/ML-Now) - A collection of ML projects
 * [Old Resume Template](https://github.com/Zeyu-Li/old-resume-template) - Old LaTeX resume template :pencil:. See new resume template below [Website @ [github.com/Zeyu-Li/resume-template](https://github.com/Zeyu-Li/resume-template)]
+* [Overleaf Lite](https://github.com/Zeyu-Li/overleaf-lite) - A light weight version of overleaf made with AngularJS [Website @ [overleaf-lite.vercel.app/](https://overleaf-lite.vercel.app/)]
 * [Pandoc Action Example](https://github.com/Zeyu-Li/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 * [Pasta Disasta](https://github.com/Zeyu-Li/pasta-disasta) - What happens when you roll the can of pasta :spaghetti: (made with matter.js) [Website @ [zeyu-li.github.io/pasta-disasta/index.html](https://zeyu-li.github.io/pasta-disasta/index.html)]
 * [Pdf Splitter](https://github.com/Zeyu-Li/pdf-splitter) - A python script that splits pdfs in multiple parts ✂️📄
@@ -293,8 +296,10 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Intellij Idea Template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - A template for an IntelliJ Idea project :pencil: 
 
 
-### (19) JavaScript
+### (21) JavaScript
 
+* [Black Hole](https://github.com/Zeyu-Li/black-hole) - Donuts have Black Holes [Website @ [zeyu-li.github.io/black-hole/](https://zeyu-li.github.io/black-hole/)]
+* [Bottom Penguin Coin Website](https://github.com/Zeyu-Li/bottom-penguin-coin-website) - The website for Bottom Penguin Coin [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [Chatter](https://github.com/Zeyu-Li/chatter) - A realtime React-Firebase/Firestore online chat room app 📢 [Website @ [chatter-zeyu-li.vercel.app/](https://chatter-zeyu-li.vercel.app/)]
 * [Chess](https://github.com/Zeyu-Li/chess) - A web chess board :chess_pawn: made with jQuery and html canvas. Live @  [Website @ [zeyu-li.github.io/chess/index.html](https://zeyu-li.github.io/chess/index.html)]
 * [Choose Your Own Adventure React Maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure :crossed_swords: now by reading the readme then go here:  [Website @ [zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html](https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html)]
@@ -384,7 +389,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 ### (28) Python
 
-* [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈
+* [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [Cipher](https://github.com/Zeyu-Li/cipher) - A Feistel Cipher implemented in Python :closed_lock_with_key:
 * [Data Formatting](https://github.com/Zeyu-Li/data_formatting) - Formats data from file and creates new file 📃
 * [Django Template](https://github.com/Zeyu-Li/django-template) - A Django template :pencil: 
@@ -445,11 +450,12 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Resume Template](https://github.com/Zeyu-Li/resume-template) - A LaTeX resume template 📝
 
 
-### (6) TypeScript
+### (7) TypeScript
 
 * [Climate Change Visualization](https://github.com/Zeyu-Li/climate-change-visualization) - This website allows you to explore the effects of climate change around Canada in 3D! 🌎 (for Hack the 6ix) [Website @ [degreesofchange.tech/](https://degreesofchange.tech/)]
 * [Lit Website](https://github.com/Zeyu-Li/lit-website) - My lit portfolio website 🔥 [Website @ [andrewli.site](https://andrewli.site)]
 * [Lua Runner](https://github.com/Zeyu-Li/lua-runner) - A npm package to run Lua [Website @ [www.npmjs.com/package/lua-runner](https://www.npmjs.com/package/lua-runner)]
+* [Overleaf Lite](https://github.com/Zeyu-Li/overleaf-lite) - A light weight version of overleaf made with AngularJS [Website @ [overleaf-lite.vercel.app/](https://overleaf-lite.vercel.app/)]
 * [Primes](https://github.com/Zeyu-Li/primes) - A prime detector is TypeScript
 * [Synapse](https://github.com/Zeyu-Li/synapse) - Synapse is a tool that generates interactive graphs of course prerequisites and corequisites using data extracted from the UAlberta course catalogue. [Website @ [steventango.github.io/synapse/](https://steventango.github.io/synapse/)]
 * [Typescript Template](https://github.com/Zeyu-Li/TypeScript_template) - A simple TypeScript template, nothing more, nothing less :pencil: 
@@ -458,7 +464,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 ### (2) Vue
 
 * [Awesome Github Profile Readme](https://github.com/Zeyu-Li/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝 [Website @ [awesomegithubprofile.tech/](https://awesomegithubprofile.tech/)]
-* [Latex Moodle Converter Plus](https://github.com/Zeyu-Li/latex-moodle-converter-plus) - Sequal to Latex Moodle Converter but with more stuff [Website @ [latex-moodle-converter.vercel.app/](https://latex-moodle-converter.vercel.app/)]
+* [Latex Katex Converter](https://github.com/Zeyu-Li/latex-katex-converter) - LaTeX to KaTeX convertor! Sequel to Latex Moodle Converter but with more stuff [Website @ [latex-katex-converter.vercel.app/](https://latex-katex-converter.vercel.app/)]
 
 
 

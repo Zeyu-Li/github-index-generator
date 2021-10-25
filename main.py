@@ -4,7 +4,7 @@ import json
 import re
 
 GITHUB_USERNAME = "Zeyu-Li"
-FILES = True
+FILES = False
 REPOS_FILE = "data.json"
 GISTS_FILE = "gists.json"
 
@@ -22,7 +22,7 @@ def getReposAPI(file = f"{REPOS_FILE}"):
         repos += r.json()
     
     # clean up
-    repos = filter(lambda x: not (x == "message" or x == "documentation_url"), repos)
+    repos = list(filter(lambda x: not (x == "message" or x == "documentation_url"), repos))
 
     # dumps in json just in case
     with open(file, "w") as fp:
@@ -83,6 +83,7 @@ def getLanguages(repos):
 
 
 def main():
+    FILES = not input("Use API to get repos y/N: ")[0].lower() == 'y'
     repos = getRepoFile() if FILES else getReposAPI()
     gists = getGistFile() if FILES else getGistsAPI()
 
