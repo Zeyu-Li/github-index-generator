@@ -33,10 +33,6 @@ def getReposAPI(file = f"{REPOS_FILE}"):
 def getGistsAPI(file = f"{GISTS_FILE}"):
     r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/gist')
     gists = r.json()
-    
-    # dumps in json just in case
-    with open(file, "w") as fp:
-        json.dump(gists, fp)
 
     return gists
 
@@ -86,6 +82,10 @@ def main():
     FILES = not input("Use API to get repos y/N: ")[0].lower() == 'y'
     repos = getRepoFile() if FILES else getReposAPI()
     gists = getGistFile() if FILES else getGistsAPI()
+
+    if (gists['documentation_url'] == 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'):
+        # if API limit reaches, use json file
+        gists = getGistFile()
 
     template = f"""
 # GitHub Index
