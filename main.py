@@ -83,7 +83,7 @@ def main():
     repos = getRepoFile() if FILES else getReposAPI()
     gists = getGistFile() if FILES else getGistsAPI()
 
-    if (gists['documentation_url'] == 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'):
+    if (not FILES and gists['documentation_url'] == 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'):
         # if API limit reaches, use json file
         gists = getGistFile()
 
