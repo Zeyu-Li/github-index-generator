@@ -5,6 +5,7 @@ import re
 
 GITHUB_USERNAME = "Zeyu-Li"
 FILES = False
+DUMP_GIST = False
 REPOS_FILE = "data.json"
 GISTS_FILE = "gists.json"
 
@@ -33,6 +34,11 @@ def getReposAPI(file = f"{REPOS_FILE}"):
 def getGistsAPI(file = f"{GISTS_FILE}"):
     r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/gists')
     gists = r.json()
+        
+    # dumps in json just in case
+    if DUMP_GIST:
+        with open(file, "w") as fp:
+            json.dump(gists, fp)
 
     return gists
 
