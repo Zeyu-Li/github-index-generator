@@ -181,9 +181,10 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 <a name="gist"></a>
 
-## (21) All Gists
+## (23) All Gists
 
 * [.bashrc](https://gist.github.com/b24db531b6974d2344c4f43ea300cd98) - My bashrc file for WSL2
+* [.gitignore](https://gist.github.com/3f19cfe635ba7a0b8ce666472e5cbb5e) - a gitignore for WordPress within the wp-content directory/folder
 * [.vimrc](https://gist.github.com/73e30eddbde493bd3c329de57c658a55) - A vim setting gist
 * [c#_notes.md](https://gist.github.com/9e59b72b426204beac3877adfac97952) - Notes on setting up C# console application 
 * [change.sh](https://gist.github.com/3c60027d9dbc96461d2aafc7dff8f1d5) - Changes git user
@@ -194,6 +195,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [find_file_type.py](https://gist.github.com/0f13d2a76c3055e74c46ec2fa65a9025) - Script to find all files of a type in current folder
 * [generater.py](https://gist.github.com/0bc83e32810be0a748d2d8ea4c656af4) - generates a folder and copies a md item to clipboard
 * [init.sh](https://gist.github.com/00cfbb97970df7ba161f46094f2a66c1) - Jekyll for WSL - do `sh init.sh PostTitle` to post, open in explorer and serve 
+* [install.txt](https://gist.github.com/0a6c65e4b9e59865cc96ad93e8f0b29a) - Install new Scala
 * [LICENSE](https://gist.github.com/d6475c42cfa562ddfae1f09222b64517) - ABRMS (Anyone But Richard M Stallman) Troll License from https://github.com/landondyer/kasm/blob/master/LICENSE
 * [lorem.txt](https://gist.github.com/4815df06e4c6eff6427a163cd72aaf52) - 5000 words of Lorem Ipsum!
 * [pascal.py](https://gist.github.com/0651f488bf5b8d7229a903441b3ec0f1) - generates a level of the pascal triangle
