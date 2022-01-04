@@ -18,6 +18,8 @@ def getReposAPI(file = f"{REPOS_FILE}"):
         return
 
     repos = []
+    # TODO: requests all await?
+    # tricky because github api limit is small
     for i in range(math.ceil(count/2)):
         r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/repos?per_page=100&page={i+1}')
         repos += r.json()

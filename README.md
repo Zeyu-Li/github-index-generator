@@ -11,7 +11,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 <a name="all_r"></a>
 
-## (158) All GitHub Repos
+## (163) All GitHub Repos
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
@@ -26,6 +26,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Blog](https://github.com/Zeyu-Li/blog) - My personal blog 📰 [Website @ [blog.andrewli.site](https://blog.andrewli.site)]
 * [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [Bottom Penguin Coin Website](https://github.com/Zeyu-Li/bottom-penguin-coin-website) - The website for Bottom Penguin Coin 💸🚀💰 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
+* [Bottom Penguin Inheritance](https://github.com/Zeyu-Li/bottom-penguin-inheritance) - A Solidity contract for bottom penguin coin inheritance
 * [C Template](https://github.com/Zeyu-Li/c-template) - A template for C :pencil: 
 * [Capturethebread](https://github.com/Zeyu-Li/CaptureTheBread) - For CTF - an 80 themed website🔆 [Website @ [zeyu-li.github.io/CaptureTheBread/](https://zeyu-li.github.io/CaptureTheBread/)]
 * [Chatter](https://github.com/Zeyu-Li/chatter) - A realtime React-Firebase/Firestore online chat room app 📢 [Website @ [chatter.andrewli.site/](https://chatter.andrewli.site/)]
@@ -67,7 +68,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Gdq2021](https://github.com/Zeyu-Li/GDQ2021) - You are the last Dodo on Earth. The Dutch Killer Robot is on the hunt and you have run out of places to hide. In the snowy mountains, you make your final stand. [Website @ [struckdown.itch.io/the-last-dodo](https://struckdown.itch.io/the-last-dodo)]
 * [Geometry Notes](https://github.com/Zeyu-Li/geometry-notes) - Notes from MATH 241 Deprecated since I dropped the course 😳
 * [Ggj Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020 :video_game: 
-* [Github Index Generator](https://github.com/Zeyu-Li/github-index-generator) - A GitHub Indexer Script 🤖
+* [Github Index Generator](https://github.com/Zeyu-Li/github-index-generator) - Generate the list of your GitHub Repos 🤖 
 * [Github Initer](https://github.com/Zeyu-Li/github-initer) - Initializes a GitHub repo 😼
 * [Github Readme Stats](https://github.com/Zeyu-Li/github-readme-stats) - :zap: Dynamically generated stats for your GitHub readmes [Website @ [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
 * [Github Index](https://github.com/Zeyu-Li/GitHub_index) - An index for all my GitHub repos 📋 [Website @ [github.com/Zeyu-Li/GitHub_index#github-index](https://github.com/Zeyu-Li/GitHub_index#github-index)]
@@ -109,7 +110,9 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Midi Bot](https://github.com/Zeyu-Li/MIDI-bot) - A discord bot that produces the MIDI from user inputted notes 🤖
 * [Midi Interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil :musical_keyboard:
 * [Ml Now](https://github.com/Zeyu-Li/ML-Now) - A collection of ML projects 🤖
+* [Next Template](https://github.com/Zeyu-Li/next-template) - A template for next apps with SCSS
 * [Old Resume Template](https://github.com/Zeyu-Li/old-resume-template) - Old LaTeX resume template :pencil:. See new resume template below [Website @ [github.com/Zeyu-Li/resume-template](https://github.com/Zeyu-Li/resume-template)]
+* [Opengl Pyramid](https://github.com/Zeyu-Li/openGL-pyramid) - An intro into OpenGL (C++ Graphics)
 * [Overleaf Lite](https://github.com/Zeyu-Li/overleaf-lite) - A light weight version of overleaf made with AngularJS 📑 [Website @ [overleaf-lite.vercel.app/](https://overleaf-lite.vercel.app/)]
 * [Pandoc Action Example](https://github.com/Zeyu-Li/pandoc-action-example) - using the pandoc document converter on GitHub Actions 🤖
 * [Pasta Disasta](https://github.com/Zeyu-Li/pasta-disasta) - What happens when you roll the can of pasta :spaghetti: (made with matter.js) [Website @ [zeyu-li.github.io/pasta-disasta/index.html](https://zeyu-li.github.io/pasta-disasta/index.html)]
@@ -168,6 +171,8 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Website](https://github.com/Zeyu-Li/website) - This is the old personal website, the new one is @ https://andrewli.site [Website @ [andrewli.site](https://andrewli.site)]
 * [Website Boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - Website boilerplate, nothing more, nothing else :pencil: 
 * [Website Old](https://github.com/Zeyu-Li/website_old) - My old personal website. The new one is @ zeyu-li.github.io/website/ [Website @ [zeyu-li.github.io/website/](https://zeyu-li.github.io/website/)]
+* [Wordpress Boilerplate](https://github.com/Zeyu-Li/wordpress-boilerplate) - wordpress starter file
+* [Wordpressboilerplatetheme](https://github.com/Zeyu-Li/wordpressboilerplatetheme) - A template for developing WordPress themes and plugins
 * [Your Clipboard](https://github.com/Zeyu-Li/your-clipboard) - An electron app that acts as your clipboard 📋
 * [Zemeroth](https://github.com/Zeyu-Li/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust [Website @ [ozkriff.itch.io/zemeroth](https://ozkriff.itch.io/zemeroth)]
 * [Zeyu Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀! 
@@ -241,7 +246,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Unity Tutorial 3D](https://github.com/Zeyu-Li/Unity-Tutorial-3D) - A Unity Tutorial for 3D games :video_game:! Can act as a 3D template for a platformer 
 
 
-### (8) C++
+### (9) C++
 
 * [Algorithms](https://github.com/Zeyu-Li/algorithms) - A useful collections of algorithms, formulas, APTs, and some other notes 🗒
 * [Cpp Boilerplate](https://github.com/Zeyu-Li/cpp_boilerplate) - C++ boilerplate. Nothing more, nothing less :pencil: 
@@ -249,6 +254,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Cpp Gui Template](https://github.com/Zeyu-Li/cpp_gui_template) - Template for wxWidgets GUI :pencil: 
 * [Kattis Solutions](https://github.com/Zeyu-Li/kattis_solutions) - 😾Kattis solutions (Competitive Programming) [Website @ [open.kattis.com/](https://open.kattis.com/)]
 * [Matrix Multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - Matrix multiplication app using C++ 📊
+* [Opengl Pyramid](https://github.com/Zeyu-Li/openGL-pyramid) - An intro into OpenGL (C++ Graphics)
 * [Rref](https://github.com/Zeyu-Li/rref) - A ref calculator in C++ 🧮
 * [Uapspc Club](https://github.com/Zeyu-Li/UAPSPC_club) - Problem Solving and Programming Club is a club where geeks and nerds 🤓 hang out for some hard core classic computational challenges. i.e. not for me
 
@@ -313,7 +319,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Intellij Idea Template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - A template for an IntelliJ Idea project :pencil: 
 
 
-### (22) JavaScript
+### (23) JavaScript
 
 * [Black Hole](https://github.com/Zeyu-Li/black-hole) - Black Hole: Is for me? 🥺👉👈 [Website @ [zeyu-li.github.io/black-hole/](https://zeyu-li.github.io/black-hole/)]
 * [Bottom Penguin Coin Website](https://github.com/Zeyu-Li/bottom-penguin-coin-website) - The website for Bottom Penguin Coin 💸🚀💰 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
@@ -327,6 +333,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Express Tutorial](https://github.com/Zeyu-Li/express_tutorial) - A tutorial for express.js, a backend node.js package
 * [Kitchen Dash](https://github.com/Zeyu-Li/Kitchen-Dash) - Why get food delivered when you can make your own? 🍝 [Website @ [zeyu-li.github.io/Kitchen-Dash-Website/](https://zeyu-li.github.io/Kitchen-Dash-Website/)]
 * [Metapost](https://github.com/Zeyu-Li/MetaPost) - A website aimed to help those with difficulty seeing images and videos post these media forms to Facebook with a description [Website @ [cycc-hackathon.vercel.app/](https://cycc-hackathon.vercel.app/)]
+* [Next Template](https://github.com/Zeyu-Li/next-template) - A template for next apps with SCSS
 * [Pasta Disasta](https://github.com/Zeyu-Li/pasta-disasta) - What happens when you roll the can of pasta :spaghetti: (made with matter.js) [Website @ [zeyu-li.github.io/pasta-disasta/index.html](https://zeyu-li.github.io/pasta-disasta/index.html)]
 * [Phionthrium](https://github.com/Zeyu-Li/phionthrium) - The modern way to donate! Use blockchain technology to secretly, safely, and securely contribute to your favorite creators, nonprofits, or startups 💸 [Website @ [phionthrium.vercel.app/](https://phionthrium.vercel.app/)]
 * [Push2Production](https://github.com/Zeyu-Li/Push2Production) - For Calgary Hack (Withdrawn)
@@ -394,9 +401,11 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Zeyu Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀! 
 
 
-### (1) PHP
+### (3) PHP
 
 * [Shopping List](https://github.com/Zeyu-Li/shopping-list) - A static site generator - will be used as a shopping list 🛒 [Website @ [http://shopping-list-ebon.vercel.app/api](http://shopping-list-ebon.vercel.app/api)]
+* [Wordpress Boilerplate](https://github.com/Zeyu-Li/wordpress-boilerplate) - wordpress starter file
+* [Wordpressboilerplatetheme](https://github.com/Zeyu-Li/wordpressboilerplatetheme) - A template for developing WordPress themes and plugins
 
 
 ### (1) Pascal
@@ -419,7 +428,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Django Tutorial](https://github.com/Zeyu-Li/django-tutorial) - A tutorial for Django projects 🏫
 * [Django Project Test](https://github.com/Zeyu-Li/django_project_test) - First Django project (test). For current Django project:  [Website @ [github.com/Zeyu-Li/django_ecommerce_app](https://github.com/Zeyu-Li/django_ecommerce_app)]
 * [Fraction Cal Py](https://github.com/Zeyu-Li/fraction_cal_py) - A fractions calculator written in Python 🖩
-* [Github Index Generator](https://github.com/Zeyu-Li/github-index-generator) - A GitHub Indexer Script 🤖
+* [Github Index Generator](https://github.com/Zeyu-Li/github-index-generator) - Generate the list of your GitHub Repos 🤖 
 * [Google Sheets Script Public](https://github.com/Zeyu-Li/google_sheets_script_public) - A script using Google API to copy from template and replace things in each sheet 🤖
 * [Grapher Public](https://github.com/Zeyu-Li/grapher_public) - This project extracts data from a set of Google Sheets worksheets and graphs the result using Google Drive API and gspread and matplotlib 📈
 * [Groundhog Text Game](https://github.com/Zeyu-Li/groundhog_text_game) - A text-based python game 🎮
@@ -468,6 +477,11 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 ### (1) Shell
 
 * [Git Initer](https://github.com/Zeyu-Li/Git_initer) - A Shell script that git inits, adds, commits when run
+
+
+### (1) Solidity
+
+* [Bottom Penguin Inheritance](https://github.com/Zeyu-Li/bottom-penguin-inheritance) - A Solidity contract for bottom penguin coin inheritance
 
 
 ### (5) TeX
