@@ -11,7 +11,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 <a name="all_r"></a>
 
-## (163) All GitHub Repos
+## (166) All GitHub Repos
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
@@ -26,7 +26,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Blog](https://github.com/Zeyu-Li/blog) - My personal blog 📰 [Website @ [blog.andrewli.site](https://blog.andrewli.site)]
 * [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [Bottom Penguin Coin Website](https://github.com/Zeyu-Li/bottom-penguin-coin-website) - The website for Bottom Penguin Coin 💸🚀💰 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
-* [Bottom Penguin Inheritance](https://github.com/Zeyu-Li/bottom-penguin-inheritance) - A Solidity contract for bottom penguin coin inheritance
+* [Bottom Penguin Inheritance](https://github.com/Zeyu-Li/bottom-penguin-inheritance) - A Solidity contract for bottom penguin coin inheritance :coin:
 * [C Template](https://github.com/Zeyu-Li/c-template) - A template for C :pencil: 
 * [Capturethebread](https://github.com/Zeyu-Li/CaptureTheBread) - For CTF - an 80 themed website🔆 [Website @ [zeyu-li.github.io/CaptureTheBread/](https://zeyu-li.github.io/CaptureTheBread/)]
 * [Chatter](https://github.com/Zeyu-Li/chatter) - A realtime React-Firebase/Firestore online chat room app 📢 [Website @ [chatter.andrewli.site/](https://chatter.andrewli.site/)]
@@ -68,6 +68,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Gdq2021](https://github.com/Zeyu-Li/GDQ2021) - You are the last Dodo on Earth. The Dutch Killer Robot is on the hunt and you have run out of places to hide. In the snowy mountains, you make your final stand. [Website @ [struckdown.itch.io/the-last-dodo](https://struckdown.itch.io/the-last-dodo)]
 * [Geometry Notes](https://github.com/Zeyu-Li/geometry-notes) - Notes from MATH 241 Deprecated since I dropped the course 😳
 * [Ggj Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020 :video_game: 
+* [Ggj2022](https://github.com/Zeyu-Li/GGJ2022) - Weather the Storm [Website @ [adamtilson.itch.io/weathering-the-storm](https://adamtilson.itch.io/weathering-the-storm)]
 * [Github Index Generator](https://github.com/Zeyu-Li/github-index-generator) - Generate the list of your GitHub Repos 🤖 
 * [Github Initer](https://github.com/Zeyu-Li/github-initer) - Initializes a GitHub repo 😼
 * [Github Readme Stats](https://github.com/Zeyu-Li/github-readme-stats) - :zap: Dynamically generated stats for your GitHub readmes [Website @ [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
@@ -111,6 +112,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Midi Interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil :musical_keyboard:
 * [Ml Now](https://github.com/Zeyu-Li/ML-Now) - A collection of ML projects 🤖
 * [Next Template](https://github.com/Zeyu-Li/next-template) - A template for next apps with SCSS
+* [Not 10](https://github.com/Zeyu-Li/not-10) - Don't say 🔟 [Website @ [not-10.vercel.app/](https://not-10.vercel.app/)]
 * [Old Resume Template](https://github.com/Zeyu-Li/old-resume-template) - Old LaTeX resume template :pencil:. See new resume template below [Website @ [github.com/Zeyu-Li/resume-template](https://github.com/Zeyu-Li/resume-template)]
 * [Opengl Pyramid](https://github.com/Zeyu-Li/openGL-pyramid) - An intro into OpenGL (C++ Graphics)
 * [Overleaf Lite](https://github.com/Zeyu-Li/overleaf-lite) - A light weight version of overleaf made with AngularJS 📑 [Website @ [overleaf-lite.vercel.app/](https://overleaf-lite.vercel.app/)]
@@ -134,6 +136,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Reboot](https://github.com/Zeyu-Li/Reboot) - REBOOT - a VR/PC prototype for use in pain research and rehabilitation to help address financial barriers in the delivery of VR neurofeedback intervention 🧠 [Website @ [rebootgame.vercel.app/](https://rebootgame.vercel.app/)]
 * [Replace Text](https://github.com/Zeyu-Li/replace_text) - Replaces text with terms defined in dictionary 📝
 * [Requirements Maker](https://github.com/Zeyu-Li/requirements-maker) - Supply a list of the modules by the pypi name (comma separated list) and will output a requirements.txt 📝
+* [Rereceipt](https://github.com/Zeyu-Li/Rereceipt) - For HackED 2022
 * [Resume Template](https://github.com/Zeyu-Li/resume-template) - A LaTeX resume template 📝
 * [Robotics Scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - A simple scoreboard website for two teams (with timer ⏲️)  [Website @ [campbellrobotics.github.io/robotics-scoreboard/](https://campbellrobotics.github.io/robotics-scoreboard/)]
 * [Rref](https://github.com/Zeyu-Li/rref) - A ref calculator in C++ 🧮
@@ -321,7 +324,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Intellij Idea Template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - A template for an IntelliJ Idea project :pencil: 
 
 
-### (23) JavaScript
+### (25) JavaScript
 
 * [Black Hole](https://github.com/Zeyu-Li/black-hole) - Black Hole: Is for me? 🥺👉👈 [Website @ [zeyu-li.github.io/black-hole/](https://zeyu-li.github.io/black-hole/)]
 * [Bottom Penguin Coin Website](https://github.com/Zeyu-Li/bottom-penguin-coin-website) - The website for Bottom Penguin Coin 💸🚀💰 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
@@ -336,11 +339,13 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Kitchen Dash](https://github.com/Zeyu-Li/Kitchen-Dash) - Why get food delivered when you can make your own? 🍝 [Website @ [zeyu-li.github.io/Kitchen-Dash-Website/](https://zeyu-li.github.io/Kitchen-Dash-Website/)]
 * [Metapost](https://github.com/Zeyu-Li/MetaPost) - A website aimed to help those with difficulty seeing images and videos post these media forms to Facebook with a description [Website @ [cycc-hackathon.vercel.app/](https://cycc-hackathon.vercel.app/)]
 * [Next Template](https://github.com/Zeyu-Li/next-template) - A template for next apps with SCSS
+* [Not 10](https://github.com/Zeyu-Li/not-10) - Don't say 🔟 [Website @ [not-10.vercel.app/](https://not-10.vercel.app/)]
 * [Pasta Disasta](https://github.com/Zeyu-Li/pasta-disasta) - What happens when you roll the can of pasta :spaghetti: (made with matter.js) [Website @ [zeyu-li.github.io/pasta-disasta/index.html](https://zeyu-li.github.io/pasta-disasta/index.html)]
 * [Phionthrium](https://github.com/Zeyu-Li/phionthrium) - The modern way to donate! Use blockchain technology to secretly, safely, and securely contribute to your favorite creators, nonprofits, or startups 💸 [Website @ [phionthrium.vercel.app/](https://phionthrium.vercel.app/)]
 * [Push2Production](https://github.com/Zeyu-Li/Push2Production) - For Calgary Hack (Withdrawn)
 * [React Native Template](https://github.com/Zeyu-Li/react-native-template) - A template for React Native :iphone: :pencil: 
 * [React Template](https://github.com/Zeyu-Li/react-template) - A react template :pencil: 
+* [Rereceipt](https://github.com/Zeyu-Li/Rereceipt) - For HackED 2022
 * [Robotics Scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - A simple scoreboard website for two teams (with timer ⏲️)  [Website @ [campbellrobotics.github.io/robotics-scoreboard/](https://campbellrobotics.github.io/robotics-scoreboard/)]
 * [Scroll With Style](https://github.com/Zeyu-Li/scroll_with_style) - A stylized scrollbar Chrome extension [Website @ [chrome.google.com/webstore/detail/stylized-scrollbar/igpchmaapelclmhofnheepclmfniobnc?hl=en](https://chrome.google.com/webstore/detail/stylized-scrollbar/igpchmaapelclmhofnheepclmfniobnc?hl=en)]
 * [Speedy Jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of :fast_forward: JW Player 
@@ -371,7 +376,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Makefile Template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
 
 
-### (28) Misc
+### (29) Misc
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
@@ -379,6 +384,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Ama Template](https://github.com/Zeyu-Li/AMA-template) - An AMA template 
 * [Cmput 229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
 * [Free Blender Models](https://github.com/Zeyu-Li/free-blender-models) - Free Blender models! :hammer:
+* [Ggj2022](https://github.com/Zeyu-Li/GGJ2022) - Weather the Storm [Website @ [adamtilson.itch.io/weathering-the-storm](https://adamtilson.itch.io/weathering-the-storm)]
 * [Github Readme Stats](https://github.com/Zeyu-Li/github-readme-stats) - :zap: Dynamically generated stats for your GitHub readmes [Website @ [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
 * [Github Index](https://github.com/Zeyu-Li/GitHub_index) - An index for all my GitHub repos 📋 [Website @ [github.com/Zeyu-Li/GitHub_index#github-index](https://github.com/Zeyu-Li/GitHub_index#github-index)]
 * [Gitignore](https://github.com/Zeyu-Li/gitignore) - A collection of useful .gitignore templates ❌
@@ -483,7 +489,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 ### (1) Solidity
 
-* [Bottom Penguin Inheritance](https://github.com/Zeyu-Li/bottom-penguin-inheritance) - A Solidity contract for bottom penguin coin inheritance
+* [Bottom Penguin Inheritance](https://github.com/Zeyu-Li/bottom-penguin-inheritance) - A Solidity contract for bottom penguin coin inheritance :coin:
 
 
 ### (5) TeX
