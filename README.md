@@ -11,7 +11,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 <a name="all_r"></a>
 
-## (166) All GitHub Repos
+## (170) All GitHub Repos
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
@@ -28,6 +28,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Bottom Penguin Coin Website](https://github.com/Zeyu-Li/bottom-penguin-coin-website) - The website for Bottom Penguin Coin 💸🚀💰 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [Bottom Penguin Inheritance](https://github.com/Zeyu-Li/bottom-penguin-inheritance) - A Solidity contract for bottom penguin coin inheritance :coin:
 * [C Template](https://github.com/Zeyu-Li/c-template) - A template for C :pencil: 
+* [Calgary Heist](https://github.com/Zeyu-Li/Calgary-Heist) - Create your flashcards and race your friends in getting the right answer! [Website @ [calgary-heist.vercel.app/](https://calgary-heist.vercel.app/)]
 * [Capturethebread](https://github.com/Zeyu-Li/CaptureTheBread) - For CTF - an 80 themed website🔆 [Website @ [zeyu-li.github.io/CaptureTheBread/](https://zeyu-li.github.io/CaptureTheBread/)]
 * [Chatter](https://github.com/Zeyu-Li/chatter) - A realtime React-Firebase/Firestore online chat room app 📢 [Website @ [chatter.andrewli.site/](https://chatter.andrewli.site/)]
 * [Chess](https://github.com/Zeyu-Li/chess) - A web chess board :chess_pawn: made with jQuery and html canvas. Live @  [Website @ [zeyu-li.github.io/chess/index.html](https://zeyu-li.github.io/chess/index.html)]
@@ -43,6 +44,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Cpp Boilerplate](https://github.com/Zeyu-Li/cpp_boilerplate) - C++ boilerplate. Nothing more, nothing less :pencil: 
 * [Cpp Fractions Lib](https://github.com/Zeyu-Li/cpp_fractions_lib) - A fractions library in C++ 
 * [Cpp Gui Template](https://github.com/Zeyu-Li/cpp_gui_template) - Template for wxWidgets GUI :pencil: 
+* [Create Your Business](https://github.com/Zeyu-Li/create-your-business) - A doc for creating a business in Canada 🍁  [Website @ [zeyu-li.github.io/create-your-business/](https://zeyu-li.github.io/create-your-business/)]
 * [Credit Card Validator](https://github.com/Zeyu-Li/credit-card-validator) - A Rusty Credit Card Validator 💳
 * [C Linked List](https://github.com/Zeyu-Li/c_linked_list) - A singly linked list in C :link:. Can be found in: [Website @ [github.com/Zeyu-Li/quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms)]
 * [Data Formatting](https://github.com/Zeyu-Li/data_formatting) - Formats data from file and creates new file 📃
@@ -53,6 +55,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Django Ecommerse App Deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - Django login application. Not live due to AWS high charging fees :money_with_wings: New version here: [Website @ [github.com/Zeyu-Li/django_ecommerce_app](https://github.com/Zeyu-Li/django_ecommerce_app)]
 * [Django Project Test](https://github.com/Zeyu-Li/django_project_test) - First Django project (test). For current Django project:  [Website @ [github.com/Zeyu-Li/django_ecommerce_app](https://github.com/Zeyu-Li/django_ecommerce_app)]
 * [Docker React](https://github.com/Zeyu-Li/docker-react) - A Docker file for React 🐳
+* [Dotfiles](https://github.com/Zeyu-Li/dotfiles) - My dotfiles for mac
 * [Eclass Dark](https://github.com/Zeyu-Li/eClass_dark) - A Chrome extension that makes eClass dark along with some other quality of life adjustments! 👀 [Website @ [chrome.google.com/webstore/detail/eclass-optimizations/dmnlhbobipheklaahbiopkhopglibcej](https://chrome.google.com/webstore/detail/eclass-optimizations/dmnlhbobipheklaahbiopkhopglibcej)]
 * [Emoji Finder](https://github.com/Zeyu-Li/emoji-finder) - A website dedicated to finding the emoji you want! Made with react ❤️ [Website @ [zeyu-li.github.io/emojis-finder/build/index.html](https://zeyu-li.github.io/emojis-finder/build/index.html)]
 * [Emojis On Electron](https://github.com/Zeyu-Li/emojis-on-electron) - A port of my emoji finder react project to electron 📖
@@ -60,6 +63,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Expressing Chess](https://github.com/Zeyu-Li/expressing-chess) - Expressing chess with express.js, a backend node.js package :chess_pawn:
 * [Express Tutorial](https://github.com/Zeyu-Li/express_tutorial) - A tutorial for express.js, a backend node.js package
 * [Fibonacci Mips](https://github.com/Zeyu-Li/fibonacci-mips) - A fibonacci calculator in assembly 🧮
+* [Figma Docs](https://github.com/Zeyu-Li/figma-docs) - Documenation for Figma 📖 [Website @ [figma.com](https://figma.com)]
 * [Fizzbuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizzbuzz in Java 🥤
 * [Fortified E](https://github.com/Zeyu-Li/fortified-e) - Monte Carlo Simulator for e using Fortran 🧮
 * [Fraction Cal Py](https://github.com/Zeyu-Li/fraction_cal_py) - A fractions calculator written in Python 🖩
@@ -232,6 +236,11 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Lab Basicblocks](https://github.com/Zeyu-Li/Lab_BasicBlocks) - CMPUT 229 Final Project - Basic Blocks
 
 
+### (1) Batchfile
+
+* [Create Your Business](https://github.com/Zeyu-Li/create-your-business) - A doc for creating a business in Canada 🍁  [Website @ [zeyu-li.github.io/create-your-business/](https://zeyu-li.github.io/create-your-business/)]
+
+
 ### (4) C
 
 * [C Template](https://github.com/Zeyu-Li/c-template) - A template for C :pencil: 
@@ -376,13 +385,14 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Makefile Template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
 
 
-### (29) Misc
+### (30) Misc
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
 * [Ama](https://github.com/Zeyu-Li/AMA) - AMA 😃 [Website @ [github.com/Zeyu-Li/AMA/discussions](https://github.com/Zeyu-Li/AMA/discussions)]
 * [Ama Template](https://github.com/Zeyu-Li/AMA-template) - An AMA template 
 * [Cmput 229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
+* [Figma Docs](https://github.com/Zeyu-Li/figma-docs) - Documenation for Figma 📖 [Website @ [figma.com](https://figma.com)]
 * [Free Blender Models](https://github.com/Zeyu-Li/free-blender-models) - Free Blender models! :hammer:
 * [Ggj2022](https://github.com/Zeyu-Li/GGJ2022) - Weather the Storm [Website @ [adamtilson.itch.io/weathering-the-storm](https://adamtilson.itch.io/weathering-the-storm)]
 * [Github Readme Stats](https://github.com/Zeyu-Li/github-readme-stats) - :zap: Dynamically generated stats for your GitHub readmes [Website @ [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
@@ -482,8 +492,9 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Socks And Found](https://github.com/Zeyu-Li/Socks-and-Found) - For Global Game Jam 2021 🎮 [Website @ [andrewli.itch.io/socks-and-found](https://andrewli.itch.io/socks-and-found)]
 
 
-### (1) Shell
+### (2) Shell
 
+* [Dotfiles](https://github.com/Zeyu-Li/dotfiles) - My dotfiles for mac
 * [Git Initer](https://github.com/Zeyu-Li/Git_initer) - A Shell script that git inits, adds, commits when run
 
 
@@ -501,8 +512,9 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Resume Template](https://github.com/Zeyu-Li/resume-template) - A LaTeX resume template 📝
 
 
-### (7) TypeScript
+### (8) TypeScript
 
+* [Calgary Heist](https://github.com/Zeyu-Li/Calgary-Heist) - Create your flashcards and race your friends in getting the right answer! [Website @ [calgary-heist.vercel.app/](https://calgary-heist.vercel.app/)]
 * [Climate Change Visualization](https://github.com/Zeyu-Li/climate-change-visualization) - This website allows you to explore the effects of climate change around Canada in 3D! 🌎 (for Hack the 6ix) [Website @ [degreesofchange.tech/](https://degreesofchange.tech/)]
 * [Lit Website](https://github.com/Zeyu-Li/lit-website) - My lit portfolio website 🔥 [Website @ [andrewli.site](https://andrewli.site)]
 * [Lua Runner](https://github.com/Zeyu-Li/lua-runner) - A NPM package to run Lua 🌠 [Website @ [www.npmjs.com/package/lua-runner](https://www.npmjs.com/package/lua-runner)]
