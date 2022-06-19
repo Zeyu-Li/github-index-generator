@@ -11,7 +11,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 <a name="all_r"></a>
 
-## (170) All GitHub Repos
+## (174) All GitHub Repos
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
@@ -114,8 +114,10 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Metapyscript](https://github.com/Zeyu-Li/metapyscript) - A new way to program in 0 lines of code 🧠
 * [Midi Bot](https://github.com/Zeyu-Li/MIDI-bot) - A discord bot that produces the MIDI from user inputted notes 🤖
 * [Midi Interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil :musical_keyboard:
-* [Ml Now](https://github.com/Zeyu-Li/ML-Now) - A collection of ML projects 🤖
+* [Ml Now](https://github.com/Zeyu-Li/ML-Now) - A collection of simple ML projects 🤖
+* [Next Django Template](https://github.com/Zeyu-Li/next-django-template) - A template for a Next/Django Application - a full stack template
 * [Next Template](https://github.com/Zeyu-Li/next-template) - A template for next apps with SCSS
+* [No Code](https://github.com/Zeyu-Li/no-code) - No code in firefox 😳 [Website @ [no-code-lemon.vercel.app/api](https://no-code-lemon.vercel.app/api)]
 * [Not 10](https://github.com/Zeyu-Li/not-10) - Don't say 🔟 [Website @ [not-10.vercel.app/](https://not-10.vercel.app/)]
 * [Old Resume Template](https://github.com/Zeyu-Li/old-resume-template) - Old LaTeX resume template :pencil:. See new resume template below [Website @ [github.com/Zeyu-Li/resume-template](https://github.com/Zeyu-Li/resume-template)]
 * [Opengl Pyramid](https://github.com/Zeyu-Li/openGL-pyramid) - An intro into OpenGL (C++ Graphics)
@@ -129,6 +131,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Phionthrium](https://github.com/Zeyu-Li/phionthrium) - The modern way to donate! Use blockchain technology to secretly, safely, and securely contribute to your favorite creators, nonprofits, or startups 💸 [Website @ [phionthrium.vercel.app/](https://phionthrium.vercel.app/)]
 * [Pong](https://github.com/Zeyu-Li/pong) - A pong inspired game 🏓
 * [Primes](https://github.com/Zeyu-Li/primes) - A prime detector is TypeScript
+* [Processing Sketches](https://github.com/Zeyu-Li/processing-sketches) - Sketches made using Processing [Website @ [processing.org/](https://processing.org/)]
 * [Push2Production](https://github.com/Zeyu-Li/Push2Production) - For Calgary Hack (Withdrawn)
 * [Pygithub Sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - Sorting GitHub repos using Python and PyGithub
 * [Python Boilerplate](https://github.com/Zeyu-Li/python_boilerplate) - Python Boilerplate. Nothing more, nothing less :pencil: 
@@ -152,6 +155,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Socks And Found](https://github.com/Zeyu-Li/Socks-and-Found) - For Global Game Jam 2021 🎮 [Website @ [andrewli.itch.io/socks-and-found](https://andrewli.itch.io/socks-and-found)]
 * [Speedy Jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of :fast_forward: JW Player 
 * [Spinning Donuts](https://github.com/Zeyu-Li/spinning-donuts) - Spinning ASCII Donuts! 🍩 
+* [Spring Boilerplate](https://github.com/Zeyu-Li/spring-boilerplate) - A Springboot boilerplate
 * [Strings](https://github.com/Zeyu-Li/strings) - common string operations🧵
 * [Synapse](https://github.com/Zeyu-Li/synapse) - Synapse is a tool that generates interactive graphs of course prerequisites and corequisites using data extracted from the UAlberta course catalogue. [Website @ [steventango.github.io/synapse/](https://steventango.github.io/synapse/)]
 * [Template](https://github.com/Zeyu-Li/template) - A standard template containing a README and a license :pencil: 
@@ -273,9 +277,10 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Uapspc Club](https://github.com/Zeyu-Li/UAPSPC_club) - Problem Solving and Programming Club is a club where geeks and nerds 🤓 hang out for some hard core classic computational challenges. i.e. not for me
 
 
-### (2) CSS
+### (3) CSS
 
 * [Kitchen Dash Website](https://github.com/Zeyu-Li/Kitchen-Dash-Website) - Kitchen Dash Landing Page 🚀 [Website @ [zeyu-li.github.io/Kitchen-Dash-Website/](https://zeyu-li.github.io/Kitchen-Dash-Website/)]
+* [No Code](https://github.com/Zeyu-Li/no-code) - No code in firefox 😳 [Website @ [no-code-lemon.vercel.app/api](https://no-code-lemon.vercel.app/api)]
 * [Unboxing](https://github.com/Zeyu-Li/unboxing) - A very jank unboxing game 🧰
 
 
@@ -326,11 +331,12 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Holy Review](https://github.com/Zeyu-Li/holy-review) - Review of HolyC
 
 
-### (3) Java
+### (4) Java
 
 * [Divineinspiration](https://github.com/Zeyu-Li/DivineInspiration) - Let's do them Experiments 🧪!
 * [Fizzbuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizzbuzz in Java 🥤
 * [Intellij Idea Template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - A template for an IntelliJ Idea project :pencil: 
+* [Spring Boilerplate](https://github.com/Zeyu-Li/spring-boilerplate) - A Springboot boilerplate
 
 
 ### (25) JavaScript
@@ -366,7 +372,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 * [Lazy Tensorflow](https://github.com/Zeyu-Li/lazy-tensorflow) - When you don't want to install Tensorflow so you just do it on Google Colab 😩 [Website @ [colab.research.google.com/github/Zeyu-Li/lazy-tensorflow/blob/master/tensorflow_template.ipynb](https://colab.research.google.com/github/Zeyu-Li/lazy-tensorflow/blob/master/tensorflow_template.ipynb)]
 * [Learn Coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive coding exercises :computer:! Made in Jupyter Notebooks so you can work online in Google Collab [Website @ [colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%201%20-%20Data-checkpoint.ipynb](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%201%20-%20Data-checkpoint.ipynb)]
-* [Ml Now](https://github.com/Zeyu-Li/ML-Now) - A collection of ML projects 🤖
+* [Ml Now](https://github.com/Zeyu-Li/ML-Now) - A collection of simple ML projects 🤖
 
 
 ### (1) Kotlin
@@ -437,7 +443,12 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Git Initer Powershell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run 🤖. Based on https://github.com/Zeyu-Li/Git_initer
 
 
-### (29) Python
+### (1) Processing
+
+* [Processing Sketches](https://github.com/Zeyu-Li/processing-sketches) - Sketches made using Processing [Website @ [processing.org/](https://processing.org/)]
+
+
+### (30) Python
 
 * [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [Cipher](https://github.com/Zeyu-Li/cipher) - A Feistel Cipher implemented in Python :closed_lock_with_key:
@@ -456,6 +467,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Metapyscript](https://github.com/Zeyu-Li/metapyscript) - A new way to program in 0 lines of code 🧠
 * [Midi Bot](https://github.com/Zeyu-Li/MIDI-bot) - A discord bot that produces the MIDI from user inputted notes 🤖
 * [Midi Interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil :musical_keyboard:
+* [Next Django Template](https://github.com/Zeyu-Li/next-django-template) - A template for a Next/Django Application - a full stack template
 * [Pdf Splitter](https://github.com/Zeyu-Li/pdf-splitter) - A python script that splits pdfs in multiple parts ✂️📄
 * [Pdf Merger](https://github.com/Zeyu-Li/pdf_merger) - A simple pdf merger using Python :pencil:
 * [Pong](https://github.com/Zeyu-Li/pong) - A pong inspired game 🏓
