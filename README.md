@@ -34,7 +34,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Capturethebread](https://github.com/Zeyu-Li/CaptureTheBread) - For CTF - an 80 themed website🔆 [Website @ [zeyu-li.github.io/CaptureTheBread/](https://zeyu-li.github.io/CaptureTheBread/)]
 * [Chatter](https://github.com/Zeyu-Li/chatter) - A realtime React-Firebase/Firestore online chat room app 📢 [Website @ [chatter.andrewli.site/](https://chatter.andrewli.site/)]
 * [Chess](https://github.com/Zeyu-Li/chess) - A web chess board :chess_pawn: made with jQuery and html canvas. Live @  [Website @ [zeyu-li.github.io/chess/index.html](https://zeyu-li.github.io/chess/index.html)]
-* [Choose Your Own Adventure React Maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure :crossed_swords: now by reading the readme then go here:  [Website @ [zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html](https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html)]
+* [Choose Your Own Adventure React Maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - A Text Adventure Game Creator - Starting creating your adventure :crossed_swords: now by reading the readme then go here:  [Website @ [zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html](https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html)]
 * [Cipher](https://github.com/Zeyu-Li/cipher) - A Feistel Cipher implemented in Python :closed_lock_with_key:
 * [Climate Change Visualization](https://github.com/Zeyu-Li/climate-change-visualization) - This website allows you to explore the effects of climate change around Canada in 3D! 🌎 (for Hack the 6ix) [Website @ [degreesofchange.tech/](https://degreesofchange.tech/)]
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - From a 48 hour Game Jam :video_game:. Download now @ [Website @ [thecatinbox.itch.io/soulwork](https://thecatinbox.itch.io/soulwork)]
@@ -109,7 +109,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Lit Discord Server](https://github.com/Zeyu-Li/lit-discord-server) - A guide to making a 🔥 lit Discord Server
 * [Lit Website](https://github.com/Zeyu-Li/lit-website) - My lit portfolio website 🔥 [Website @ [andrewli.site](https://andrewli.site)]
 * [Lua Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: https://lua.andrewli.site/ [Website @ [lua.andrewli.site/](https://lua.andrewli.site/)]
-* [Lua Runner](https://github.com/Zeyu-Li/lua-runner) - A NPM package to run Lua 🌠 [Website @ [www.npmjs.com/package/lua-runner](https://www.npmjs.com/package/lua-runner)]
+* [Lua Runner](https://github.com/Zeyu-Li/lua-runner) - A NPM package to run Lua 🌠 with over 2.5k Downloads! [Website @ [www.npmjs.com/package/lua-runner](https://www.npmjs.com/package/lua-runner)]
 * [Mac Dotfiles](https://github.com/Zeyu-Li/mac-dotfiles) - My dotfiles for mac
 * [Makefile Template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
 * [Matrix Multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - Matrix multiplication app using C++ 📊
@@ -356,7 +356,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Bottom Penguin Coin Website](https://github.com/Zeyu-Li/bottom-penguin-coin-website) - The website for Bottom Penguin Coin 💸🚀💰 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [Chatter](https://github.com/Zeyu-Li/chatter) - A realtime React-Firebase/Firestore online chat room app 📢 [Website @ [chatter.andrewli.site/](https://chatter.andrewli.site/)]
 * [Chess](https://github.com/Zeyu-Li/chess) - A web chess board :chess_pawn: made with jQuery and html canvas. Live @  [Website @ [zeyu-li.github.io/chess/index.html](https://zeyu-li.github.io/chess/index.html)]
-* [Choose Your Own Adventure React Maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure :crossed_swords: now by reading the readme then go here:  [Website @ [zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html](https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html)]
+* [Choose Your Own Adventure React Maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - A Text Adventure Game Creator - Starting creating your adventure :crossed_swords: now by reading the readme then go here:  [Website @ [zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html](https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html)]
 * [Converter](https://github.com/Zeyu-Li/converter) - A React Native App that converters cooking units 🍝
 * [Eclass Dark](https://github.com/Zeyu-Li/eClass_dark) - A Chrome extension that makes eClass dark along with some other quality of life adjustments! 👀 [Website @ [chrome.google.com/webstore/detail/eclass-optimizations/dmnlhbobipheklaahbiopkhopglibcej](https://chrome.google.com/webstore/detail/eclass-optimizations/dmnlhbobipheklaahbiopkhopglibcej)]
 * [Emojis On Electron](https://github.com/Zeyu-Li/emojis-on-electron) - A port of my emoji finder react project to electron 📖
@@ -549,7 +549,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Climate Change Visualization](https://github.com/Zeyu-Li/climate-change-visualization) - This website allows you to explore the effects of climate change around Canada in 3D! 🌎 (for Hack the 6ix) [Website @ [degreesofchange.tech/](https://degreesofchange.tech/)]
 * [Coupon Jam](https://github.com/Zeyu-Li/coupon-jam) - 🎟️ Coupon is a mobile first app that allows students to find coupons for their favorite stores [Website @ [coupons.andrewli.site](https://coupons.andrewli.site)]
 * [Lit Website](https://github.com/Zeyu-Li/lit-website) - My lit portfolio website 🔥 [Website @ [andrewli.site](https://andrewli.site)]
-* [Lua Runner](https://github.com/Zeyu-Li/lua-runner) - A NPM package to run Lua 🌠 [Website @ [www.npmjs.com/package/lua-runner](https://www.npmjs.com/package/lua-runner)]
+* [Lua Runner](https://github.com/Zeyu-Li/lua-runner) - A NPM package to run Lua 🌠 with over 2.5k Downloads! [Website @ [www.npmjs.com/package/lua-runner](https://www.npmjs.com/package/lua-runner)]
 * [Overleaf Lite](https://github.com/Zeyu-Li/overleaf-lite) - A light weight version of overleaf made with AngularJS 📑 [Website @ [overleaf-lite.vercel.app/](https://overleaf-lite.vercel.app/)]
 * [Primes](https://github.com/Zeyu-Li/primes) - A prime detector is TypeScript
 * [Shorter](https://github.com/Zeyu-Li/shorter) - A URL shortener 🩳
