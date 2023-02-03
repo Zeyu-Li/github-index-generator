@@ -89,7 +89,9 @@ def getLanguages(repos):
 def main():
     FILES = not input("Use API to get repos y/N: ")[0].lower() == 'y'
     repos = getRepoFile() if FILES else getReposAPI()
-    gists = getGistFile() if FILES else getGistsAPI()
+
+    gist_override = False
+    gists = getGistFile() if FILES and not gist_override else getGistsAPI()
 
     if (not FILES and gists['documentation_url'] == 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'):
         # if API limit reaches, use json file
