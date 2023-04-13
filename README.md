@@ -11,7 +11,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 <a name="all_r"></a>
 
-## (198) All GitHub Repos
+## (204) All GitHub Repos
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
@@ -30,9 +30,11 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Bottom Penguin Coin Website](https://github.com/Zeyu-Li/bottom-penguin-coin-website) - The website for Bottom Penguin Coin 💸🚀💰 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [Bottom Penguin Inheritance](https://github.com/Zeyu-Li/bottom-penguin-inheritance) - A Solidity contract for bottom penguin coin inheritance 🔗
 * [C Template](https://github.com/Zeyu-Li/c-template) - A template for C :pencil: 
+* [Caesar Cipher](https://github.com/Zeyu-Li/caesar-cipher) - Rusty 🦀
 * [Calgary Heist](https://github.com/Zeyu-Li/Calgary-Heist) - Create your flashcards and race your friends in getting the right answer! [Website @ [calgary-heist.vercel.app/](https://calgary-heist.vercel.app/)]
 * [Capturethebread](https://github.com/Zeyu-Li/CaptureTheBread) - For CTF - an 80 themed website🔆 [Website @ [zeyu-li.github.io/CaptureTheBread/](https://zeyu-li.github.io/CaptureTheBread/)]
 * [Cellular Automata](https://github.com/Zeyu-Li/cellular-automata) - A simple command-line tool that generates gif images and animations from elementary cellular automata [Website @ [crates.io/crates/cellular](https://crates.io/crates/cellular)]
+* [Chatbots Testing Chatbots](https://github.com/Zeyu-Li/chatbots-testing-chatbots) - Using chatbots to test chatbots
 * [Chatter](https://github.com/Zeyu-Li/chatter) - A realtime React-Firebase/Firestore online chat room app 📢 [Website @ [chatter.andrewli.site/](https://chatter.andrewli.site/)]
 * [Chess](https://github.com/Zeyu-Li/chess) - A web chess board :chess_pawn: made with jQuery and html canvas. Live @  [Website @ [zeyu-li.github.io/chess/index.html](https://zeyu-li.github.io/chess/index.html)]
 * [Choose Your Own Adventure React Maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - A Text Adventure Game Creator - Starting creating your adventure :crossed_swords: now by reading the readme then go here:  [Website @ [zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html](https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html)]
@@ -76,6 +78,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Fraction Cal Py](https://github.com/Zeyu-Li/fraction_cal_py) - A fractions calculator written in Python 🖩
 * [Free Blender Models](https://github.com/Zeyu-Li/free-blender-models) - Free Blender models! :hammer:
 * [Functionally Set](https://github.com/Zeyu-Li/functionally-set) - A short description for functional languages + some code
+* [Gamesdendiscordbot](https://github.com/Zeyu-Li/GamesDenDiscordBot) - Small discord bot for the Games Den UofA club.
 * [Gdq2021](https://github.com/Zeyu-Li/GDQ2021) - You are the last Dodo on Earth. The Dutch Killer Robot is on the hunt and you have run out of places to hide. In the snowy mountains, you make your final stand. [Website @ [struckdown.itch.io/the-last-dodo](https://struckdown.itch.io/the-last-dodo)]
 * [Geometry Notes](https://github.com/Zeyu-Li/geometry-notes) - Notes from MATH 241 Deprecated since I dropped the course 😳
 * [Ggj Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020 :video_game: 
@@ -115,10 +118,12 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Lit Discord Server](https://github.com/Zeyu-Li/lit-discord-server) - A guide to making a 🔥 lit Discord Server
 * [Lit Website](https://github.com/Zeyu-Li/lit-website) - My lit portfolio website 🔥(Deprecated) [Website @ [old.andrewli.site](https://old.andrewli.site)]
 * [Litter Website](https://github.com/Zeyu-Li/litter-website) - A more lit version of my lit website 🔥 [Website @ [andrewli.site/](https://andrewli.site/)]
+* [Lottie](https://github.com/Zeyu-Li/lottie) - None [Website @ [lottie-rust.vercel.app](lottie-rust.vercel.app)]
 * [Lua Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: https://lua.andrewli.site/ [Website @ [lua.andrewli.site/](https://lua.andrewli.site/)]
 * [Lua Runner](https://github.com/Zeyu-Li/lua-runner) - A NPM package to run Lua 🌠 with over 2.5k Downloads! [Website @ [www.npmjs.com/package/lua-runner](https://www.npmjs.com/package/lua-runner)]
 * [Mac Dotfiles](https://github.com/Zeyu-Li/mac-dotfiles) - My dotfiles for mac
 * [Makefile Template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
+* [Man Template](https://github.com/Zeyu-Li/man-template) - A template for your man file
 * [Math322](https://github.com/Zeyu-Li/math322) - None
 * [Matrix Multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - Matrix multiplication app using C++ 📊
 * [Mb3D](https://github.com/Zeyu-Li/mb3d) - Mandelbulb3D, a 3D fractal generator 🎨 [Website @ [www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)]
@@ -183,7 +188,6 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Template](https://github.com/Zeyu-Li/template) - A standard template containing a README and a license :pencil: 
 * [Tensorflow Installation Guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2 :robot: 
 * [Tensorflow Test](https://github.com/Zeyu-Li/tensorflow_test) - The test tensorflow project
-* [Thvu Blog](https://github.com/Zeyu-Li/thvu-blog) - My digital home on the internet. [Website @ [thvu.dev](https://thvu.dev)]
 * [Tic Tac Toe](https://github.com/Zeyu-Li/tic_tac_toe) - Tic Tac Toe using wxFormBuilder and wxPython ❌
 * [Tryhackme](https://github.com/Zeyu-Li/TryHackMe) - Hacker Man 👨‍💻 [Website @ [tryhackme.com/](https://tryhackme.com/)]
 * [Typescript Template](https://github.com/Zeyu-Li/TypeScript_template) - A simple TypeScript template, nothing more, nothing less :pencil: 
@@ -197,13 +201,15 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Unreal Template Old](https://github.com/Zeyu-Li/Unreal-Template-Old) - A Old Unreal Template with a Git bug :beetle:. New one here: [Website @ [github.com/Zeyu-Li/Unreal-Tutorial](https://github.com/Zeyu-Li/Unreal-Tutorial)]
 * [Unreal Tutorial](https://github.com/Zeyu-Li/Unreal-Tutorial) - An Unreal Engine tutorial! Acts as a 1st person Unreal template as well :video_game: [Website @ [github.com/Zeyu-Li/Unreal-Template-Old](https://github.com/Zeyu-Li/Unreal-Template-Old)]
 * [Uwufier](https://github.com/Zeyu-Li/uwufier) - Convert to #1 language UwULang 🥺👉👈
-* [Uwulang](https://github.com/Zeyu-Li/uwulang) - #1 🥺👉👈
+* [Uwulang](https://github.com/Zeyu-Li/uwulang) - #1 🥺👉👈(just for deploy) [Website @ [uwulang.com](https://uwulang.com)]
+* [Uwulang Docs](https://github.com/Zeyu-Li/uwulang-docs) - UwULang docs for the nerds! 🤓 [Website @ [uwulang-docs.vercel.app](https://uwulang-docs.vercel.app)]
+* [Uwulang Website](https://github.com/Zeyu-Li/uwulang-website) - The website for UwULang [Website @ [uwulang.vercel.app](https://uwulang.vercel.app)]
 * [Vim Help](https://github.com/Zeyu-Li/Vim_help) - This is to help getting up and running with Vim ☄
 * [Vscode Prints](https://github.com/Zeyu-Li/vscode-prints) - vs-code extension that has print snippets in multiple languages so you don't have to type them! 🖨️
 * [Vs Project](https://github.com/Zeyu-Li/vs_project) - A starting point for C++ in Visual Studio 📝
 * [Web Goals](https://github.com/Zeyu-Li/web-goals) - Makes goals or TODOs with a time-based component and a section for markdown 📝. Live @ https://zeyu-li.github.io/web-goals/ [Website @ [zeyu-li.github.io/web-goals/](https://zeyu-li.github.io/web-goals/)]
 * [Website Boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - Website boilerplate, nothing more, nothing else :pencil: 
-* [Weekly](https://github.com/Zeyu-Li/weekly) - The weekly coding or marketing status (based on but opposite to https://codingweekmarketingweek.com/) [Website @ [weekly-topaz.vercel.app](weekly-topaz.vercel.app)]
+* [Weekly](https://github.com/Zeyu-Li/weekly) - The weekly coding or marketing status (based on but opposite to https://codingweekmarketingweek.com/) [Website @ [weekly.antarcticsolutions.ca/](https://weekly.antarcticsolutions.ca/)]
 * [Wordpress Boilerplate](https://github.com/Zeyu-Li/wordpress-boilerplate) - wordpress starter file
 * [Wordpressboilerplatetheme](https://github.com/Zeyu-Li/wordpressboilerplatetheme) - A template for developing WordPress themes and plugins
 * [Wsl Dotfiles](https://github.com/Zeyu-Li/wsl-dotfiles) - Windows/ WSL dotfiles 🪟
@@ -274,11 +280,12 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Create Your Business](https://github.com/Zeyu-Li/create-your-business) - A doc for creating a business in Canada 🍁  [Website @ [zeyu-li.github.io/create-your-business/](https://zeyu-li.github.io/create-your-business/)]
 
 
-### (3) C
+### (4) C
 
 * [C Template](https://github.com/Zeyu-Li/c-template) - A template for C :pencil: 
 * [C Linked List](https://github.com/Zeyu-Li/c_linked_list) - A singly linked list in C :link:. Can be found in: [Website @ [github.com/Zeyu-Li/quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms)]
 * [Lua Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: https://lua.andrewli.site/ [Website @ [lua.andrewli.site/](https://lua.andrewli.site/)]
+* [Uwulang](https://github.com/Zeyu-Li/uwulang) - #1 🥺👉👈(just for deploy) [Website @ [uwulang.com](https://uwulang.com)]
 
 
 ### (7) C#
@@ -370,7 +377,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Spring Boilerplate](https://github.com/Zeyu-Li/spring-boilerplate) - A Springboot boilerplate
 
 
-### (28) JavaScript
+### (30) JavaScript
 
 * [Airtable Webhooks](https://github.com/Zeyu-Li/airtable-webhooks) - Webhooks x Airtable (⚓x 💨)
 * [Black Hole](https://github.com/Zeyu-Li/black-hole) - Black Hole: Is for me? 🥺👉👈 [Website @ [zeyu-li.github.io/black-hole/](https://zeyu-li.github.io/black-hole/)]
@@ -385,6 +392,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Express Tutorial](https://github.com/Zeyu-Li/express_tutorial) - A tutorial for express.js, a backend node.js package
 * [Github Readme Stats](https://github.com/Zeyu-Li/github-readme-stats) - :zap: Dynamically generated stats for your GitHub readmes [Website @ [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
 * [Kitchen Dash](https://github.com/Zeyu-Li/Kitchen-Dash) - Why get food delivered when you can make your own? 🍝 [Website @ [zeyu-li.github.io/Kitchen-Dash-Website/](https://zeyu-li.github.io/Kitchen-Dash-Website/)]
+* [Lottie](https://github.com/Zeyu-Li/lottie) - None [Website @ [lottie-rust.vercel.app](lottie-rust.vercel.app)]
 * [Metapost](https://github.com/Zeyu-Li/MetaPost) - A website aimed to help those with difficulty seeing images and videos post these media forms to Facebook with a description [Website @ [cycc-hackathon.vercel.app/](https://cycc-hackathon.vercel.app/)]
 * [Next Scss Template](https://github.com/Zeyu-Li/next-scss-template) - A template for next apps with SCSS
 * [Next Template](https://github.com/Zeyu-Li/next-template) - A Next Template
@@ -398,6 +406,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Robotics Scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - A simple scoreboard website for two teams (with timer ⏲️)  [Website @ [campbellrobotics.github.io/robotics-scoreboard/](https://campbellrobotics.github.io/robotics-scoreboard/)]
 * [Scroll With Style](https://github.com/Zeyu-Li/scroll_with_style) - A stylized scrollbar Chrome extension [Website @ [chrome.google.com/webstore/detail/stylized-scrollbar/igpchmaapelclmhofnheepclmfniobnc?hl=en](https://chrome.google.com/webstore/detail/stylized-scrollbar/igpchmaapelclmhofnheepclmfniobnc?hl=en)]
 * [Speedy Jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of :fast_forward: JW Player 
+* [Uwulang Docs](https://github.com/Zeyu-Li/uwulang-docs) - UwULang docs for the nerds! 🤓 [Website @ [uwulang-docs.vercel.app](https://uwulang-docs.vercel.app)]
 * [Web Goals](https://github.com/Zeyu-Li/web-goals) - Makes goals or TODOs with a time-based component and a section for markdown 📝. Live @ https://zeyu-li.github.io/web-goals/ [Website @ [zeyu-li.github.io/web-goals/](https://zeyu-li.github.io/web-goals/)]
 * [Your Clipboard](https://github.com/Zeyu-Li/your-clipboard) - An electron app that acts as your clipboard 📋
 
@@ -428,7 +437,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Makefile Template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
 
 
-### (35) Misc
+### (33) Misc
 
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
 * [Ama](https://github.com/Zeyu-Li/AMA) - AMA 😃 [Website @ [github.com/Zeyu-Li/AMA/discussions](https://github.com/Zeyu-Li/AMA/discussions)]
@@ -455,12 +464,10 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Saveimagetogallery](https://github.com/Zeyu-Li/SaveImagetoGallery) - This is the code to save the image from Imageview to galley in Android Studio 📸
 * [Template](https://github.com/Zeyu-Li/template) - A standard template containing a README and a license :pencil: 
 * [Tensorflow Installation Guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2 :robot: 
-* [Thvu Blog](https://github.com/Zeyu-Li/thvu-blog) - My digital home on the internet. [Website @ [thvu.dev](https://thvu.dev)]
 * [Tryhackme](https://github.com/Zeyu-Li/TryHackMe) - Hacker Man 👨‍💻 [Website @ [tryhackme.com/](https://tryhackme.com/)]
 * [Unity User Guide](https://github.com/Zeyu-Li/unity-user-guide) - A Unity User Guide that supplements the Unity Documentation, along with some tips and tricks! Is a collection of my 2D and 3D notes on Unity :video_game:
 * [Unreal Template Old](https://github.com/Zeyu-Li/Unreal-Template-Old) - A Old Unreal Template with a Git bug :beetle:. New one here: [Website @ [github.com/Zeyu-Li/Unreal-Tutorial](https://github.com/Zeyu-Li/Unreal-Tutorial)]
 * [Unreal Tutorial](https://github.com/Zeyu-Li/Unreal-Tutorial) - An Unreal Engine tutorial! Acts as a 1st person Unreal template as well :video_game: [Website @ [github.com/Zeyu-Li/Unreal-Template-Old](https://github.com/Zeyu-Li/Unreal-Template-Old)]
-* [Uwulang](https://github.com/Zeyu-Li/uwulang) - #1 🥺👉👈
 * [Vim Help](https://github.com/Zeyu-Li/Vim_help) - This is to help getting up and running with Vim ☄
 * [Vscode Prints](https://github.com/Zeyu-Li/vscode-prints) - vs-code extension that has print snippets in multiple languages so you don't have to type them! 🖨️
 * [Vs Project](https://github.com/Zeyu-Li/vs_project) - A starting point for C++ in Visual Studio 📝
@@ -490,7 +497,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Processing Sketches](https://github.com/Zeyu-Li/processing-sketches) - Sketches made using Processing [Website @ [processing.org/](https://processing.org/)]
 
 
-### (31) Python
+### (32) Python
 
 * [Blind 75](https://github.com/Zeyu-Li/blind-75) - #grindset
 * [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
@@ -500,6 +507,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Django Tutorial](https://github.com/Zeyu-Li/django-tutorial) - A tutorial for Django projects 🏫
 * [Django Project Test](https://github.com/Zeyu-Li/django_project_test) - First Django project (test). For current Django project:  [Website @ [github.com/Zeyu-Li/django_ecommerce_app](https://github.com/Zeyu-Li/django_ecommerce_app)]
 * [Fraction Cal Py](https://github.com/Zeyu-Li/fraction_cal_py) - A fractions calculator written in Python 🖩
+* [Gamesdendiscordbot](https://github.com/Zeyu-Li/GamesDenDiscordBot) - Small discord bot for the Games Den UofA club.
 * [Github Index Generator](https://github.com/Zeyu-Li/github-index-generator) - Generate the list of your GitHub Repos 🤖 
 * [Google Sheets Script Public](https://github.com/Zeyu-Li/google_sheets_script_public) - A script using Google API to copy from template and replace things in each sheet 🤖
 * [Grapher Public](https://github.com/Zeyu-Li/grapher_public) - This project extracts data from a set of Google Sheets worksheets and graphs the result using Google Drive API and gspread and matplotlib 📈
@@ -525,8 +533,9 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Tic Tac Toe](https://github.com/Zeyu-Li/tic_tac_toe) - Tic Tac Toe using wxFormBuilder and wxPython ❌
 
 
-### (1) Roff
+### (2) Roff
 
+* [Man Template](https://github.com/Zeyu-Li/man-template) - A template for your man file
 * [Wsl Dotfiles](https://github.com/Zeyu-Li/wsl-dotfiles) - Windows/ WSL dotfiles 🪟
 
 
@@ -535,8 +544,9 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Advent Of Code 2021](https://github.com/Zeyu-Li/advent-of-code-2021) - Let's get hacking, 1 new programming language every day 👨‍💻 [Website @ [adventofcode.com/](https://adventofcode.com/)]
 
 
-### (5) Rust
+### (6) Rust
 
+* [Caesar Cipher](https://github.com/Zeyu-Li/caesar-cipher) - Rusty 🦀
 * [Cellular Automata](https://github.com/Zeyu-Li/cellular-automata) - A simple command-line tool that generates gif images and animations from elementary cellular automata [Website @ [crates.io/crates/cellular](https://crates.io/crates/cellular)]
 * [Credit Card Validator](https://github.com/Zeyu-Li/credit-card-validator) - A Rusty Credit Card Validator 💳
 * [Hex Bot](https://github.com/Zeyu-Li/hex-bot) - Solving using RL (JK)
@@ -576,9 +586,10 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Resume Template](https://github.com/Zeyu-Li/resume-template) - A LaTeX resume template 📝
 
 
-### (13) TypeScript
+### (15) TypeScript
 
 * [Calgary Heist](https://github.com/Zeyu-Li/Calgary-Heist) - Create your flashcards and race your friends in getting the right answer! [Website @ [calgary-heist.vercel.app/](https://calgary-heist.vercel.app/)]
+* [Chatbots Testing Chatbots](https://github.com/Zeyu-Li/chatbots-testing-chatbots) - Using chatbots to test chatbots
 * [Climate Change Visualization](https://github.com/Zeyu-Li/climate-change-visualization) - This website allows you to explore the effects of climate change around Canada in 3D! 🌎 (for Hack the 6ix) [Website @ [degreesofchange.tech/](https://degreesofchange.tech/)]
 * [Coupon Jam](https://github.com/Zeyu-Li/coupon-jam) - 🎟️ Coupon is a mobile first app that allows students to find coupons for their favorite stores [Website @ [coupons.andrewli.site](https://coupons.andrewli.site)]
 * [Lit Website](https://github.com/Zeyu-Li/lit-website) - My lit portfolio website 🔥(Deprecated) [Website @ [old.andrewli.site](https://old.andrewli.site)]
@@ -590,7 +601,8 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Synapse](https://github.com/Zeyu-Li/synapse) - Synapse is a tool that generates interactive graphs of course prerequisites and corequisites using data extracted from the UAlberta course catalogue. [Website @ [steventango.github.io/synapse/](https://steventango.github.io/synapse/)]
 * [T3 Boilerplate App](https://github.com/Zeyu-Li/t3-boilerplate-app) - Quickest way to start a new web app with full stack typesafety [Website @ [create.t3.gg](https://create.t3.gg)]
 * [Typescript Template](https://github.com/Zeyu-Li/TypeScript_template) - A simple TypeScript template, nothing more, nothing less :pencil: 
-* [Weekly](https://github.com/Zeyu-Li/weekly) - The weekly coding or marketing status (based on but opposite to https://codingweekmarketingweek.com/) [Website @ [weekly-topaz.vercel.app](weekly-topaz.vercel.app)]
+* [Uwulang Website](https://github.com/Zeyu-Li/uwulang-website) - The website for UwULang [Website @ [uwulang.vercel.app](https://uwulang.vercel.app)]
+* [Weekly](https://github.com/Zeyu-Li/weekly) - The weekly coding or marketing status (based on but opposite to https://codingweekmarketingweek.com/) [Website @ [weekly.antarcticsolutions.ca/](https://weekly.antarcticsolutions.ca/)]
 
 
 ### (2) Vue
