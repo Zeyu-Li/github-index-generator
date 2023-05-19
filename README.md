@@ -72,7 +72,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Expressing Chess](https://github.com/Zeyu-Li/expressing-chess) - Expressing chess with express.js, a backend node.js package :chess_pawn:
 * [Express Tutorial](https://github.com/Zeyu-Li/express_tutorial) - A tutorial for express.js, a backend node.js package
 * [Fibonacci Mips](https://github.com/Zeyu-Li/fibonacci-mips) - A fibonacci calculator in assembly 🧮
-* [Figma Docs](https://github.com/Zeyu-Li/figma-docs) - Documenation for Figma 📖 [Website @ [figma.com](https://figma.com)]
+* [Figma Docs](https://github.com/Zeyu-Li/figma-docs) - Documentation for Figma 📖 [Website @ [figma.com](https://figma.com)]
 * [Fizzbuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizzbuzz in Java 🥤
 * [Fortified E](https://github.com/Zeyu-Li/fortified-e) - Monte Carlo Simulator for e using Fortran 🧮
 * [Fraction Cal Py](https://github.com/Zeyu-Li/fraction_cal_py) - A fractions calculator written in Python 🖩
@@ -331,9 +331,10 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Fortified E](https://github.com/Zeyu-Li/fortified-e) - Monte Carlo Simulator for e using Fortran 🧮
 
 
-### (1) GDScript
+### (2) GDScript
 
 * [Gdq2021](https://github.com/Zeyu-Li/GDQ2021) - You are the last Dodo on Earth. The Dutch Killer Robot is on the hunt and you have run out of places to hide. In the snowy mountains, you make your final stand. [Website @ [struckdown.itch.io/the-last-dodo](https://struckdown.itch.io/the-last-dodo)]
+* [Ggj2022](https://github.com/Zeyu-Li/GGJ2022) - Weather the Storm [Website @ [adamtilson.itch.io/weathering-the-storm](https://adamtilson.itch.io/weathering-the-storm)]
 
 
 ### (3) Go
@@ -437,7 +438,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Makefile Template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
 
 
-### (33) Misc
+### (32) Misc
 
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
 * [Ama](https://github.com/Zeyu-Li/AMA) - AMA 😃 [Website @ [github.com/Zeyu-Li/AMA/discussions](https://github.com/Zeyu-Li/AMA/discussions)]
@@ -446,9 +447,8 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Cmput 301 Lab4](https://github.com/Zeyu-Li/cmput-301-lab4) - None
 * [Cmput 474 Nature Of Computation](https://github.com/Zeyu-Li/cmput-474-nature-of-computation) - Notes on CMPUT 474
 * [E For Dinosaurs](https://github.com/Zeyu-Li/e-for-dinosaurs) - eeeeeeeeeeeeeee
-* [Figma Docs](https://github.com/Zeyu-Li/figma-docs) - Documenation for Figma 📖 [Website @ [figma.com](https://figma.com)]
+* [Figma Docs](https://github.com/Zeyu-Li/figma-docs) - Documentation for Figma 📖 [Website @ [figma.com](https://figma.com)]
 * [Free Blender Models](https://github.com/Zeyu-Li/free-blender-models) - Free Blender models! :hammer:
-* [Ggj2022](https://github.com/Zeyu-Li/GGJ2022) - Weather the Storm [Website @ [adamtilson.itch.io/weathering-the-storm](https://adamtilson.itch.io/weathering-the-storm)]
 * [Github Index](https://github.com/Zeyu-Li/GitHub_index) - An index for all my GitHub repos 📋 [Website @ [github.com/Zeyu-Li/GitHub_index#github-index](https://github.com/Zeyu-Li/GitHub_index#github-index)]
 * [Gitignore](https://github.com/Zeyu-Li/gitignore) - A collection of useful .gitignore templates ❌
 * [Honor Cal Notes](https://github.com/Zeyu-Li/honor_cal_notes) - Notes for honors (aka abstract) calculus! 🧮 GitHub does not support markdown with LaTeX so use the README.pdf [Website @ [github.com/Zeyu-Li/honor_cal_notes/releases/tag/1.0](https://github.com/Zeyu-Li/honor_cal_notes/releases/tag/1.0)]
