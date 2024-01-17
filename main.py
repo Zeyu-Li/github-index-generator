@@ -9,7 +9,8 @@ DUMP_GIST = False
 REPOS_FILE = "data.json"
 GISTS_FILE = "gists.json"
 
-def getReposAPI(file = f"{REPOS_FILE}"):
+
+def getReposAPI(file=f"{REPOS_FILE}"):
     r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}')
     try:
         count = r.json()['public_repos']
@@ -21,11 +22,13 @@ def getReposAPI(file = f"{REPOS_FILE}"):
     # TODO: requests all await?
     # tricky because github api limit is small
     for i in range(math.ceil(count/2)):
-        r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/repos?per_page=100&page={i+1}')
+        r = requests.get(
+            f'https://api.github.com/users/{GITHUB_USERNAME}/repos?per_page=100&page={i+1}')
         repos += r.json()
-    
+
     # clean up
-    repos = list(filter(lambda x: not (x == "message" or x == "documentation_url"), repos))
+    repos = list(filter(lambda x: not (
+        x == "message" or x == "documentation_url"), repos))
 
     # dumps in json just in case
     with open(file, "w") as fp:
@@ -33,10 +36,11 @@ def getReposAPI(file = f"{REPOS_FILE}"):
 
     return repos
 
-def getGistsAPI(file = f"{GISTS_FILE}"):
+
+def getGistsAPI(file=f"{GISTS_FILE}"):
     r = requests.get(f'https://api.github.com/users/{GITHUB_USERNAME}/gists')
     gists = r.json()
-        
+
     # dumps in json just in case
     if DUMP_GIST:
         with open(file, "w") as fp:
@@ -45,42 +49,49 @@ def getGistsAPI(file = f"{GISTS_FILE}"):
     return gists
 
 
-def getRepoFile(file = f"{REPOS_FILE}"):
+def getRepoFile(file=f"{REPOS_FILE}"):
     with open(file, "r", encoding="utf-8") as fp:
         return list(filter(lambda x: not (x == "message" or x == "documentation_url"), json.loads(fp.read())))
 
-def getGistFile(file = f"{GISTS_FILE}"):
+
+def getGistFile(file=f"{GISTS_FILE}"):
     with open(file, "r", encoding="utf-8") as fp:
         return json.loads(fp.read())
+
 
 def getReposText(repos):
     returnText = ""
     for repo in repos:
         # homepage = repo['homepage'].replace('https://','') if repo['homepage'] else ''
         # print(returnText)
-        returnText += ("* [" + ' '.join(name.title() for name in re.split('; |, |\*|_|-', repo['name'])) + \
-        f"]({repo['html_url']}) - {repo['description']}" + (f" [Website @ [{repo['homepage'].replace('https://','') if repo['homepage'] else ''}]({repo['homepage']})]" if repo['homepage'] else '') + '\n')
+        returnText += ("* [" + ' '.join(name.title() for name in re.split('; |, |\*|_|-', repo['name'])) +
+                       f"]({repo['html_url']}) - {repo['description']}" + (f" [Website @ [{repo['homepage'].replace('https://','') if repo['homepage'] else ''}]({repo['homepage']})]" if repo['homepage'] else '') + '\n')
 
     return returnText
+
 
 def getGistsText(gists):
     returnText = ""
-    gists.sort(key=lambda a : list(a['files'].keys())[0].lower())
+    gists.sort(key=lambda a: list(a['files'].keys())[0].lower())
     for gist in gists:
-        returnText += (f"* [{list(gist['files'].keys())[0]}]({gist['html_url']}) - {gist['description']}\n")
+        returnText += (
+            f"* [{list(gist['files'].keys())[0]}]({gist['html_url']}) - {gist['description']}\n")
 
     return returnText
+
 
 def getLanguages(repos):
     # sort by language
     languages = dict()
     for repo in repos:
-        returnText = ("* [" + ' '.join(name.title() for name in re.split('; |, |\*|_|-', repo['name'])) + \
-        f"]({repo['html_url']}) - {repo['description']}" + (f" [Website @ [{repo['homepage'].replace('https://','') if repo['homepage'] else ''}]({repo['homepage']})]" if repo['homepage'] else '') + '\n')
+        returnText = ("* [" + ' '.join(name.title() for name in re.split('; |, |\*|_|-', repo['name'])) +
+                      f"]({repo['html_url']}) - {repo['description']}" + (f" [Website @ [{repo['homepage'].replace('https://','') if repo['homepage'] else ''}]({repo['homepage']})]" if repo['homepage'] else '') + '\n')
         if repo['language'] in languages or (repo['language'] == None and "Misc" in languages):
-            languages['Misc' if repo['language'] == None else repo['language']] += returnText
+            languages['Misc' if repo['language'] ==
+                      None else repo['language']] += returnText
         else:
-            languages['Misc' if repo['language'] == None else repo['language']] = returnText
+            languages['Misc' if repo['language'] ==
+                      None else repo['language']] = returnText
 
     new_line = '\n'
     return ''.join(f"### ({languages[language].count(new_line)}) {language}{new_line + new_line + languages[language] + new_line + new_line}" for language in sorted(languages))
@@ -134,6 +145,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
         fp.writelines(template)
 
     return 0
+
 
 if __name__ == "__main__":
     main()
