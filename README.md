@@ -11,7 +11,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 <a name="all_r"></a>
 
-## (204) All GitHub Repos
+## (212) All GitHub Repos
 
 * [201 Notes](https://github.com/Zeyu-Li/201-notes) - Notes for CMPUT 201 🏫
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
@@ -23,6 +23,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Androidtemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio :iphone: :pencil: 
 * [Angular Template](https://github.com/Zeyu-Li/angular-template) - A template for Angular :pencil: 
 * [Awesome Github Profile Readme](https://github.com/Zeyu-Li/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝 [Website @ [awesomegithubprofile.tech/](https://awesomegithubprofile.tech/)]
+* [Awesomewm](https://github.com/Zeyu-Li/awesomewm) - My Awesomewm dotfile
 * [Black Hole](https://github.com/Zeyu-Li/black-hole) - Black Hole: Is for me? 🥺👉👈 [Website @ [zeyu-li.github.io/black-hole/](https://zeyu-li.github.io/black-hole/)]
 * [Blind 75](https://github.com/Zeyu-Li/blind-75) - #grindset
 * [Blog](https://github.com/Zeyu-Li/blog) - My personal blog 📰 [Website @ [blog.andrewli.site](https://blog.andrewli.site)]
@@ -55,6 +56,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Cpp Gui Template](https://github.com/Zeyu-Li/cpp_gui_template) - Template for wxWidgets GUI :pencil: 
 * [Create Your Business](https://github.com/Zeyu-Li/create-your-business) - A doc for creating a business in Canada 🍁  [Website @ [zeyu-li.github.io/create-your-business/](https://zeyu-li.github.io/create-your-business/)]
 * [Credit Card Validator](https://github.com/Zeyu-Li/credit-card-validator) - A Rusty Credit Card Validator 💳
+* [Ctf Utils](https://github.com/Zeyu-Li/ctf-utils) - From useful utils for CTF
 * [C Linked List](https://github.com/Zeyu-Li/c_linked_list) - A singly linked list in C :link:. Can be found in: [Website @ [github.com/Zeyu-Li/quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms)]
 * [Data Formatting](https://github.com/Zeyu-Li/data_formatting) - Formats data from file and creates new file 📃
 * [Divineinspiration](https://github.com/Zeyu-Li/DivineInspiration) - Let's do them Experiments 🧪!
@@ -101,6 +103,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Honor Cal Notes](https://github.com/Zeyu-Li/honor_cal_notes) - Notes for honors (aka abstract) calculus! 🧮 GitHub does not support markdown with LaTeX so use the README.pdf [Website @ [github.com/Zeyu-Li/honor_cal_notes/releases/tag/1.0](https://github.com/Zeyu-Li/honor_cal_notes/releases/tag/1.0)]
 * [Innovator Jam 2021](https://github.com/Zeyu-Li/innovator-jam-2021) - Attack from Above - an atmospheric  isometric game with aliens 👾👽 [Website @ [andrewli.itch.io/attacked-from-above](https://andrewli.itch.io/attacked-from-above)]
 * [Intellij Idea Template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - A template for an IntelliJ Idea project :pencil: 
+* [Jar Unpacker](https://github.com/Zeyu-Li/jar-unpacker) - See what is in the cookie jar
 * [Javadocs](https://github.com/Zeyu-Li/JavaDocs) - Java Docs for Divine Inspiration Project (https://github.com/CMPUT301W21T21-H03/DivineInspiration) [Website @ [cmput301w21t21-h03.github.io/JavaDocs/](https://cmput301w21t21-h03.github.io/JavaDocs/)]
 * [Javascript Notes](https://github.com/Zeyu-Li/javascript_notes) - Notes on JavaScript 📝
 * [Jekyll Klise](https://github.com/Zeyu-Li/jekyll-klise) - :beach_umbrella: Klisé is a minimalist Jekyll theme for running a personal site or blog, light & dark mode support. (https://klise.now.sh) [Website @ [klise.now.sh](https://klise.now.sh)]
@@ -136,6 +139,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Next Django Template](https://github.com/Zeyu-Li/next-django-template) - A template for a Next/Django Application - a full stack template
 * [Next Scss Template](https://github.com/Zeyu-Li/next-scss-template) - A template for next apps with SCSS
 * [Next Template](https://github.com/Zeyu-Li/next-template) - A Next Template
+* [Nix Wsl](https://github.com/Zeyu-Li/nix-wsl) - Learning nix flakes with home manager
 * [No Code](https://github.com/Zeyu-Li/no-code) - No code in firefox 😳 [Website @ [no-code-lemon.vercel.app/api](https://no-code-lemon.vercel.app/api)]
 * [Not 10](https://github.com/Zeyu-Li/not-10) - Don't say 🔟 [Website @ [not-10.vercel.app/](https://not-10.vercel.app/)]
 * [Nvim](https://github.com/Zeyu-Li/nvim) - my nvim settings 🌠
@@ -152,6 +156,8 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Personal Website](https://github.com/Zeyu-Li/personal_website) - My new "static" website, live @ https://andrewli.site/
 * [Phionthrium](https://github.com/Zeyu-Li/phionthrium) - The modern way to donate! Use blockchain technology to secretly, safely, and securely contribute to your favorite creators, nonprofits, or startups 💸 [Website @ [phionthrium.vercel.app/](https://phionthrium.vercel.app/)]
 * [Pong](https://github.com/Zeyu-Li/pong) - A pong inspired game 🏓
+* [Positron Google Chrome Extension](https://github.com/Zeyu-Li/Positron-Google-Chrome-Extension) - Positron is a Chrome extension that scans all posts on your social media feed and hides them before you even see it. Our extension gives a reason for why it hide the post and allows you to view it if you so choose. There are several types of post that our system will flag including hate speech, self harm, harassment, and more! [Website @ [positron-rouge.vercel.app/](https://positron-rouge.vercel.app/)]
+* [Positron Website](https://github.com/Zeyu-Li/positron-website) - For HackED 2024 (also see the extension at https://github.com/Julia-Dantas/Positron-Google-Chrome-Extension) [Website @ [positron-rouge.vercel.app](https://positron-rouge.vercel.app)]
 * [Primes](https://github.com/Zeyu-Li/primes) - A prime detector is TypeScript
 * [Processing Sketches](https://github.com/Zeyu-Li/processing-sketches) - Sketches made using Processing [Website @ [processing.org/](https://processing.org/)]
 * [Push2Production](https://github.com/Zeyu-Li/Push2Production) - For Calgary Hack (Withdrawn)
@@ -173,6 +179,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Saveimagetogallery](https://github.com/Zeyu-Li/SaveImagetoGallery) - This is the code to save the image from Imageview to galley in Android Studio 📸
 * [Scroll With Style](https://github.com/Zeyu-Li/scroll_with_style) - A stylized scrollbar Chrome extension [Website @ [chrome.google.com/webstore/detail/stylized-scrollbar/igpchmaapelclmhofnheepclmfniobnc?hl=en](https://chrome.google.com/webstore/detail/stylized-scrollbar/igpchmaapelclmhofnheepclmfniobnc?hl=en)]
 * [Sheettomidi](https://github.com/Zeyu-Li/sheetToMIDI) - A sheet music (picture) to MIDI file converter :notes:
+* [Sherp2.0](https://github.com/Zeyu-Li/sherp2.0) - A discord bot
 * [Shopping List](https://github.com/Zeyu-Li/shopping-list) - A static site generator - will be used as a shopping list 🛒 [Website @ [http://shopping-list-ebon.vercel.app/api](http://shopping-list-ebon.vercel.app/api)]
 * [Shortcut Vur](https://github.com/Zeyu-Li/shortcut_VUr) - Blender mouse and keyboard input viewer :keyboard:
 * [Shorter](https://github.com/Zeyu-Li/shorter) - A URL shortener 🩳 [Website @ [shorter.andrewli.site/](https://shorter.andrewli.site/)]
@@ -189,6 +196,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Tensorflow Installation Guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2 :robot: 
 * [Tensorflow Test](https://github.com/Zeyu-Li/tensorflow_test) - The test tensorflow project
 * [Tic Tac Toe](https://github.com/Zeyu-Li/tic_tac_toe) - Tic Tac Toe using wxFormBuilder and wxPython ❌
+* [Time To Get Swifty](https://github.com/Zeyu-Li/time-to-get-swifty) - Learning SwiftUI
 * [Tryhackme](https://github.com/Zeyu-Li/TryHackMe) - Hacker Man 👨‍💻 [Website @ [tryhackme.com/](https://tryhackme.com/)]
 * [Typescript Template](https://github.com/Zeyu-Li/TypeScript_template) - A simple TypeScript template, nothing more, nothing less :pencil: 
 * [Uapspc Club](https://github.com/Zeyu-Li/UAPSPC_club) - Problem Solving and Programming Club is a club where geeks and nerds 🤓 hang out for some hard core classic computational challenges. i.e. not for me
@@ -222,36 +230,38 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 
 <a name="gist"></a>
 
-## (28) All Gists
+## (30) All Gists
 
-* [.bashrc](https://gist.github.com/b24db531b6974d2344c4f43ea300cd98) - My bashrc file for WSL2
-* [.gitignore](https://gist.github.com/3f19cfe635ba7a0b8ce666472e5cbb5e) - a gitignore for WordPress within the wp-content directory/folder
-* [.vimrc](https://gist.github.com/73e30eddbde493bd3c329de57c658a55) - A vim setting gist
-* [c#_notes.md](https://gist.github.com/9e59b72b426204beac3877adfac97952) - Notes on setting up C# console application 
-* [change.sh](https://gist.github.com/3c60027d9dbc96461d2aafc7dff8f1d5) - Changes git user
-* [cloudSettings](https://gist.github.com/80b5d20564341db07a139a13cbf6120c) - Visual Studio Code Settings Sync Gist
-* [counter.py](https://gist.github.com/a4d838e0fcd963f435005584e03bd7c6) - Counts the number of GitHub repos a person has
-* [cybera-docker.sh](https://gist.github.com/c0ea3aaca554fc6c15eb2f2ca41f4f3a) - Installing docker on Cybera
-* [discord.md](https://gist.github.com/79abd495bccea4c47d00b74de41775c7) - A simple help guide for Discord noobs
-* [empty.ipynb](https://gist.github.com/6599b4f2e9d812777257622051e0c42c) - An empty Jupyter notebook file - the file is not recognized if empty
-* [files.py](https://gist.github.com/29f054d88514a0737b6775685b39f341) - Generate a List of Files along With File Type (Hand wavy)
-* [find_file_type.py](https://gist.github.com/0f13d2a76c3055e74c46ec2fa65a9025) - Script to find all files of a type in current folder
-* [generater.py](https://gist.github.com/0bc83e32810be0a748d2d8ea4c656af4) - generates a folder and copies a md item to clipboard
-* [github.service](https://gist.github.com/a95cef4405b4a5667420ae678f23c3ad) - Running github actions locally
-* [init.sh](https://gist.github.com/00cfbb97970df7ba161f46094f2a66c1) - Jekyll for WSL - do `sh init.sh PostTitle` to post, open in explorer and serve 
-* [install.txt](https://gist.github.com/0a6c65e4b9e59865cc96ad93e8f0b29a) - Install new Scala
-* [LICENSE](https://gist.github.com/d6475c42cfa562ddfae1f09222b64517) - ABRMS (Anyone But Richard M Stallman) Troll License from https://github.com/landondyer/kasm/blob/master/LICENSE
-* [lorem.txt](https://gist.github.com/4815df06e4c6eff6427a163cd72aaf52) - 5000 words of Lorem Ipsum!
-* [Microsoft.PowerShell_profile.ps1](https://gist.github.com/8243ef5b508be2ee81605d5cc2dd9509) - Store in C:\Users\{$USERNAME}\Documents\WindowsPowerShell
-* [pascal.py](https://gist.github.com/0651f488bf5b8d7229a903441b3ec0f1) - generates a level of the pascal triangle
-* [pi.py](https://gist.github.com/b2a9f27c49849add42a0d01d7ffa16e8) - approximates pi via Monte Carlo
-* [README_max.md](https://gist.github.com/98cf78603c0134815d1d9dc2c12372d8) - The maximized version of readme GitHub Index
-* [README_min.md](https://gist.github.com/5d8a53c60df9e627522728ccbfb26d5a) - A minified readme of the GitHub Index
-* [README_old.md](https://gist.github.com/94b0090612aaaefcb2c149a22cd4fc76) - A list of all my projects
-* [regex.py](https://gist.github.com/5bacf117086e0666d1e5409a51726953) - Does regex searches
-* [run3.md](https://gist.github.com/9d6cd8b473da54a331edd76952e3630a) - Run 3 Cheat
-* [shut.bat](https://gist.github.com/d491827b7c98548d91352e190914f43b) - close WSL2
-* [skull.tex](https://gist.github.com/9f8e9bc39b7dfba4479ad70a8b6bd5f4) - A TiKZ drawing of a skull, converted from svg
+* [.bashrc](https://gist.github.com/Zeyu-Li/b24db531b6974d2344c4f43ea300cd98) - My bashrc file for WSL2
+* [.gitignore](https://gist.github.com/Zeyu-Li/3f19cfe635ba7a0b8ce666472e5cbb5e) - a gitignore for WordPress within the wp-content directory/folder
+* [.vimrc](https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55) - A vim setting gist
+* [c#_notes.md](https://gist.github.com/Zeyu-Li/9e59b72b426204beac3877adfac97952) - Notes on setting up C# console application 
+* [change.sh](https://gist.github.com/Zeyu-Li/3c60027d9dbc96461d2aafc7dff8f1d5) - Changes git user
+* [cloudSettings](https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c) - Visual Studio Code Settings Sync Gist
+* [counter.py](https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6) - Counts the number of GitHub repos a person has
+* [cybera-docker.sh](https://gist.github.com/Zeyu-Li/c0ea3aaca554fc6c15eb2f2ca41f4f3a) - Installing docker on Cybera
+* [discord.md](https://gist.github.com/Zeyu-Li/79abd495bccea4c47d00b74de41775c7) - A simple help guide for Discord noobs
+* [empty.ipynb](https://gist.github.com/Zeyu-Li/6599b4f2e9d812777257622051e0c42c) - An empty Jupyter notebook file - the file is not recognized if empty
+* [files.py](https://gist.github.com/Zeyu-Li/29f054d88514a0737b6775685b39f341) - Generate a List of Files along With File Type (Hand wavy)
+* [find_file_type.py](https://gist.github.com/Zeyu-Li/0f13d2a76c3055e74c46ec2fa65a9025) - Script to find all files of a type in current folder
+* [generater.py](https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4) - generates a folder and copies a md item to clipboard
+* [github.service](https://gist.github.com/Zeyu-Li/a95cef4405b4a5667420ae678f23c3ad) - Running github actions locally
+* [init.sh](https://gist.github.com/Zeyu-Li/00cfbb97970df7ba161f46094f2a66c1) - Jekyll for WSL - do `sh init.sh PostTitle` to post, open in explorer and serve 
+* [install.txt](https://gist.github.com/Zeyu-Li/0a6c65e4b9e59865cc96ad93e8f0b29a) - Install new Scala
+* [javacopypasta.md](https://gist.github.com/Zeyu-Li/29df9a5469f683bc7cffac2f4190e431) - Java is the best
+* [LICENSE](https://gist.github.com/Zeyu-Li/d6475c42cfa562ddfae1f09222b64517) - ABRMS (Anyone But Richard M Stallman) Troll License from https://github.com/landondyer/kasm/blob/master/LICENSE
+* [lorem.txt](https://gist.github.com/Zeyu-Li/4815df06e4c6eff6427a163cd72aaf52) - 5000 words of Lorem Ipsum!
+* [Microsoft.PowerShell_profile.ps1](https://gist.github.com/Zeyu-Li/8243ef5b508be2ee81605d5cc2dd9509) - Store in C:\Users\{$USERNAME}\Documents\WindowsPowerShell
+* [pascal.py](https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1) - generates a level of the pascal triangle
+* [pi.py](https://gist.github.com/Zeyu-Li/b2a9f27c49849add42a0d01d7ffa16e8) - approximates pi via Monte Carlo
+* [README_max.md](https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8) - The maximized version of readme GitHub Index
+* [README_min.md](https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a) - A minified readme of the GitHub Index
+* [README_old.md](https://gist.github.com/Zeyu-Li/94b0090612aaaefcb2c149a22cd4fc76) - A list of all my projects
+* [regex.py](https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953) - Does regex searches
+* [run3.md](https://gist.github.com/Zeyu-Li/9d6cd8b473da54a331edd76952e3630a) - Run 3 Cheat
+* [shut.bat](https://gist.github.com/Zeyu-Li/d491827b7c98548d91352e190914f43b) - close WSL2
+* [skull.tex](https://gist.github.com/Zeyu-Li/9f8e9bc39b7dfba4479ad70a8b6bd5f4) - A TiKZ drawing of a skull, converted from svg
+* [spotify_backup_2023.csv](https://gist.github.com/Zeyu-Li/490c674543538ea7b0dbf9908e7422f8) - 2023 Playlist backup from https://www.spotify-backup.com/
 
 
 
@@ -337,10 +347,11 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Ggj2022](https://github.com/Zeyu-Li/GGJ2022) - Weather the Storm [Website @ [adamtilson.itch.io/weathering-the-storm](https://adamtilson.itch.io/weathering-the-storm)]
 
 
-### (3) Go
+### (4) Go
 
 * [Golang Template](https://github.com/Zeyu-Li/golang_template) - A Go template, nothing more, nothing less :pencil: 
 * [Go Test](https://github.com/Zeyu-Li/go_test) - Testing Go by printing out if a number is prime
+* [Jar Unpacker](https://github.com/Zeyu-Li/jar-unpacker) - See what is in the cookie jar
 * [Uwufier](https://github.com/Zeyu-Li/uwufier) - Convert to #1 language UwULang 🥺👉👈
 
 
@@ -426,8 +437,9 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Androidtemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio :iphone: :pencil: 
 
 
-### (3) Lua
+### (4) Lua
 
+* [Awesomewm](https://github.com/Zeyu-Li/awesomewm) - My Awesomewm dotfile
 * [Nvim](https://github.com/Zeyu-Li/nvim) - my nvim settings 🌠
 * [Spinning Donuts](https://github.com/Zeyu-Li/spinning-donuts) - Spinning ASCII Donuts! 🍩 
 * [Strings](https://github.com/Zeyu-Li/strings) - common string operations🧵
@@ -438,7 +450,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Makefile Template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
 
 
-### (32) Misc
+### (33) Misc
 
 * [3D Print Doggy Chain Template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed) 🐶
 * [Ama](https://github.com/Zeyu-Li/AMA) - AMA 😃 [Website @ [github.com/Zeyu-Li/AMA/discussions](https://github.com/Zeyu-Li/AMA/discussions)]
@@ -459,6 +471,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Math322](https://github.com/Zeyu-Li/math322) - None
 * [Pandoc Action Example](https://github.com/Zeyu-Li/pandoc-action-example) - using the pandoc document converter on GitHub Actions 🤖
 * [Personal Snippets](https://github.com/Zeyu-Li/personal-snippets) - My personal vs code snippets ✂️
+* [Positron Google Chrome Extension](https://github.com/Zeyu-Li/Positron-Google-Chrome-Extension) - Positron is a Chrome extension that scans all posts on your social media feed and hides them before you even see it. Our extension gives a reason for why it hide the post and allows you to view it if you so choose. There are several types of post that our system will flag including hate speech, self harm, harassment, and more! [Website @ [positron-rouge.vercel.app/](https://positron-rouge.vercel.app/)]
 * [Readme Template](https://github.com/Zeyu-Li/README_template) - A template for README files :pencil: 
 * [Reboot](https://github.com/Zeyu-Li/Reboot) - REBOOT - a VR/PC prototype for use in pain research and rehabilitation to help address financial barriers in the delivery of VR neurofeedback intervention 🧠 [Website @ [rebootgame.vercel.app/](https://rebootgame.vercel.app/)]
 * [Saveimagetogallery](https://github.com/Zeyu-Li/SaveImagetoGallery) - This is the code to save the image from Imageview to galley in Android Studio 📸
@@ -472,6 +485,11 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Vscode Prints](https://github.com/Zeyu-Li/vscode-prints) - vs-code extension that has print snippets in multiple languages so you don't have to type them! 🖨️
 * [Vs Project](https://github.com/Zeyu-Li/vs_project) - A starting point for C++ in Visual Studio 📝
 * [Zeyu Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀! 
+
+
+### (1) Nix
+
+* [Nix Wsl](https://github.com/Zeyu-Li/nix-wsl) - Learning nix flakes with home manager
 
 
 ### (3) PHP
@@ -497,11 +515,12 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Processing Sketches](https://github.com/Zeyu-Li/processing-sketches) - Sketches made using Processing [Website @ [processing.org/](https://processing.org/)]
 
 
-### (32) Python
+### (34) Python
 
 * [Blind 75](https://github.com/Zeyu-Li/blind-75) - #grindset
 * [Bottom Penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈 [Website @ [coins.andrewli.site/](https://coins.andrewli.site/)]
 * [Cipher](https://github.com/Zeyu-Li/cipher) - A Feistel Cipher implemented in Python :closed_lock_with_key:
+* [Ctf Utils](https://github.com/Zeyu-Li/ctf-utils) - From useful utils for CTF
 * [Data Formatting](https://github.com/Zeyu-Li/data_formatting) - Formats data from file and creates new file 📃
 * [Django Template](https://github.com/Zeyu-Li/django-template) - A Django template :pencil: 
 * [Django Tutorial](https://github.com/Zeyu-Li/django-tutorial) - A tutorial for Django projects 🏫
@@ -528,6 +547,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Replace Text](https://github.com/Zeyu-Li/replace_text) - Replaces text with terms defined in dictionary 📝
 * [Requirements Maker](https://github.com/Zeyu-Li/requirements-maker) - Supply a list of the modules by the pypi name (comma separated list) and will output a requirements.txt 📝
 * [Sheettomidi](https://github.com/Zeyu-Li/sheetToMIDI) - A sheet music (picture) to MIDI file converter :notes:
+* [Sherp2.0](https://github.com/Zeyu-Li/sherp2.0) - A discord bot
 * [Shortcut Vur](https://github.com/Zeyu-Li/shortcut_VUr) - Blender mouse and keyboard input viewer :keyboard:
 * [Tensorflow Test](https://github.com/Zeyu-Li/tensorflow_test) - The test tensorflow project
 * [Tic Tac Toe](https://github.com/Zeyu-Li/tic_tac_toe) - Tic Tac Toe using wxFormBuilder and wxPython ❌
@@ -576,6 +596,11 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Bottom Penguin Inheritance](https://github.com/Zeyu-Li/bottom-penguin-inheritance) - A Solidity contract for bottom penguin coin inheritance 🔗
 
 
+### (1) Swift
+
+* [Time To Get Swifty](https://github.com/Zeyu-Li/time-to-get-swifty) - Learning SwiftUI
+
+
 ### (6) TeX
 
 * [Cmput 174 Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - Review of CMPUT 174 at U of A 🏫
@@ -586,7 +611,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Resume Template](https://github.com/Zeyu-Li/resume-template) - A LaTeX resume template 📝
 
 
-### (15) TypeScript
+### (16) TypeScript
 
 * [Calgary Heist](https://github.com/Zeyu-Li/Calgary-Heist) - Create your flashcards and race your friends in getting the right answer! [Website @ [calgary-heist.vercel.app/](https://calgary-heist.vercel.app/)]
 * [Chatbots Testing Chatbots](https://github.com/Zeyu-Li/chatbots-testing-chatbots) - Using chatbots to test chatbots
@@ -596,6 +621,7 @@ This is a index to all my **GitHub Repositories**. It acts as a quick-link to al
 * [Litter Website](https://github.com/Zeyu-Li/litter-website) - A more lit version of my lit website 🔥 [Website @ [andrewli.site/](https://andrewli.site/)]
 * [Lua Runner](https://github.com/Zeyu-Li/lua-runner) - A NPM package to run Lua 🌠 with over 2.5k Downloads! [Website @ [www.npmjs.com/package/lua-runner](https://www.npmjs.com/package/lua-runner)]
 * [Overleaf Lite](https://github.com/Zeyu-Li/overleaf-lite) - A light weight version of overleaf made with AngularJS 📑 [Website @ [overleaf-lite.vercel.app/](https://overleaf-lite.vercel.app/)]
+* [Positron Website](https://github.com/Zeyu-Li/positron-website) - For HackED 2024 (also see the extension at https://github.com/Julia-Dantas/Positron-Google-Chrome-Extension) [Website @ [positron-rouge.vercel.app](https://positron-rouge.vercel.app)]
 * [Primes](https://github.com/Zeyu-Li/primes) - A prime detector is TypeScript
 * [Shorter](https://github.com/Zeyu-Li/shorter) - A URL shortener 🩳 [Website @ [shorter.andrewli.site/](https://shorter.andrewli.site/)]
 * [Synapse](https://github.com/Zeyu-Li/synapse) - Synapse is a tool that generates interactive graphs of course prerequisites and corequisites using data extracted from the UAlberta course catalogue. [Website @ [steventango.github.io/synapse/](https://steventango.github.io/synapse/)]
